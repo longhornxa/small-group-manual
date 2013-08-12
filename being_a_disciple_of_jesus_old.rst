@@ -63,7 +63,7 @@ B. **Definition of a Disciple**
 
           *2. According to Vine's Expository Dictionary Of New Testament Words, it denotes "one who follows another's teaching"*
 
-          3. But a disciple was not only a learner, he was also an *Adherant* For this reason disciples were spoken of as *imitators* of their teachers.*
+          *3. But a disciple was not only a learner, he was also an *Adherant* For this reason disciples were spoken of as *imitators* of their teachers.*
 
           *4. Is believing in Jesus enough to be a disciple?*
 
@@ -73,15 +73,15 @@ C. **The Goal of being a Disciple**
 	 
 	Read Luke 6:40 and Romans 8:29. According to these Scriptures what is the goal of being a disciple?
 
-      .. only :: leader 
+    .. only:: leader 
 
-        .. topic:: *Leader Note*
+      .. topic:: *Leader Note*
 
           To be Christ's disciple, then, is to strive to be like Him! Do you have a strong desire to follow Jesus and become like Him? Unless you do, it cannot be said that you are truly His disciple!
  
 D. **The Marks of a Disciple**
 
-	  .. only :: leader 
+	  .. only:: leader 
 
       .. topic:: *Leader Note*
 
@@ -147,10 +147,10 @@ E. **Reflection**
 
     *1. Read the following scriptures*
 
-        * Matthew 4:18-22
-        * John 8:31
-        * John 13:35
-        * Matthew 28:9-20
+        *Matthew 4:18-22
+        *John 8:31
+        *John 13:35
+        *Matthew 28:9-20
 
     *2. Why do you think the disciples followed Jesus?*
     *3. Why would it be important for the disciples to do what Jesus did?*

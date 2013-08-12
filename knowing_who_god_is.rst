@@ -5,7 +5,9 @@ Loving God by Knowing Who God is
 Introduction
 ------------
 
+
 **Who is the God of the Bible?**
+
 
 How you think about God will form the foundation of your relationship with Him and your interactions with him.  But what if you are wrong in your thinking about God?  Good thing we have the Bible as a guide to help us discover the answer to who God really is.  This lesson will also help you learn more about who God is for you and to you in order to lay a foundation for your interactions with the *Great I AM*.  
 

@@ -31,5 +31,8 @@ Theme Scripture:
 	spending_time_with_god
 	prayer
 	worship
+	obedience
+	service
+	
 
 

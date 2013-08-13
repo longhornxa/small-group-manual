@@ -45,9 +45,9 @@ master_doc = 'index'
 #xa_filename=u'utxa_small_groups_leader_manual'
 #xa_name=u'XA Small Groups Leader Manual'
 
-tags.add('student')
-xa_filename=u'utxa_small_groups_student_manual'
-xa_name=u'XA Small Groups Student Manual'
+tags.add('leader')
+xa_filename=u'utxa_small_groups_leader_manual'
+xa_name=u'XA Small Groups Leader Manual'
 
 
 # General information about the project.

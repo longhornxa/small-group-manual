@@ -122,7 +122,7 @@ D.  **Look at a list of books of the Bible**
 
 	     .. topic:: *Leader Note*
 
-	     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible. For further information you may refer them to the Bible timeline or 
+	     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible. For further information you may refer them to the Bible timeline, offer to meet with them one by one to go over the Big picture or refer them to a Discover the Bible/Discover Jesus class if one is currently meeting.
 
 E. **Read Jeremiah 31:31-33**
 
@@ -202,7 +202,9 @@ F. **Three components of understanding God's plan**
 
 		*1. What kind of Book is the Bible?*
 
-		*2. Read Acts 17: 24-31*
+		*2. How did we get the Bible?*
+
+		*3. Read Acts 17: 24-31*
 
 			Identify big picture components that Paul highlighted while in Athens.
 

@@ -44,8 +44,9 @@ Theme Scripture:
 .. toctree::
    	:maxdepth: 1
    	:numbered:
-   	
+
 	service
+	forgiveness
 	
 
 

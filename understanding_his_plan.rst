@@ -68,7 +68,7 @@ A. **Different Views of the Bible**
 
 B.	**Read Acts 17: 24-31**
 
-	Identify big picture (metanarrative) components that Paul highlighted while in Athens.
+	Identify big picture components that Paul highlighted while in Athens.
 
 	.. only:: leader
 
@@ -94,7 +94,11 @@ B.	**Read Acts 17: 24-31**
 	3. ``__________________________________________________________________________``
 	4. ``__________________________________________________________________________``
 
-C.  **Gods 'Covenant' relationship throughout the Bible**
+C.  **After reading Acts 17:24-31 try to summarize in your own words a short version of the Bible's main message. 
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
+
+D.  **Gods 'Covenant' relationship throughout the Bible**
 
 	.. only:: leader
 
@@ -118,67 +122,22 @@ D.  **Look at a list of books of the Bible**
 
 	     .. topic:: *Leader Note*
 
-	     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible.
+	     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible. For further information you may refer them to the Bible timeline or 
 
-E. **Look at the Bible timeline and give some examples of Old Testament Covenants**
+E. **Read Jeremiah 31:31-33**
 
-	.. only:: leader
-
-	     .. topic:: *Leader Note*
-
-	     	Don't do a study of these, just mention some examples
-			* Genesis 3
-				Covenant w/ Adam and Eve: receive covering of animal skin (ie. Implied blood was spilled to cover their shame brought on by sin.)
-			* Genesis 9
-				Covenant w/ Noah: God covenants with Noah and mankind with rainbow
-			* Genesis 12
-				Covenant w/ Abram (Abraham): God covenants to make a nation (Jacob/Israel descendants) from who will bless all nations
-			* Exodus 19
-				Covenant w/ Moses: God remembers His covenant to their forefathers and calls new generation to a covenant of obeying Him and be His representatives among the nations.
-
-F. **Read Jeremiah 31:31-33**
-
-	#. Based on this verse what kind of relationship did God want to have with his people?
+	#. Based on this verse what kind of relationship does God want to have with his people?
 
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
-	#. Discuss Jeremiah's reference to covenant(s) and the marital metaphor attached.
+	#. Discuss Jeremiah's reference to covenant(s) and the comparison to marriage. What might a prospective fiance's proposal look like with only one of the two components of covenant?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-	#. What might a prospective fiance's proposal look like with only one of the two components of covenant?
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-G. **The connection between the Old and New Covenants (testaments)**
-
-	1. Luke 24:44 
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-	2. Luke 22: 15-20 
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-	3. Hebrews 9:19-28 
-	
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 	
-	.. only:: leader
-
-		.. topic:: *Leader Note*
-
-			Each member look up one of these verses and share how each provides insight into the evidence of God's plan throughout Scripture. The Old Testament copies and foreshadows the greater reality seen in the New Testament.
- 
-			1. **Luke 24:44** *Jesus states that He fulfilled all things written about Messiah in different parts of the OT... different authors over 1000's of years of HisStory.*
-
-			2. **Luke 22:15-20** *Passover celebrated since Moses foretells of Jesus (ie. “this is My body”) and His work on the cross to offer mankind forgiveness... ultimately, this will be fulfilled in the Kingdom's consumation.*
-
-			3. **Hebrews 9:19-28** *Old and New Covenants apply blood to access God's presence.*
 	
-H. **Three components of understanding God's plan**
+	
+F. **Three components of understanding God's plan**
 
 	.. only:: leader
 
@@ -188,17 +147,17 @@ H. **Three components of understanding God's plan**
 
 	*Metanarrative= Big picture, the overarching storyline*
 
-	1.  An Intentional Perspective... of God's metanarrative
+	1.  An Intentional Perspective... of God's plan
 
 		Challenge the perspective that the Old and New Testament have no continuity.
 		
-		Ask God to give you His perspective on His metanarrative. Since He desires for you to see truth with clarity... ask Him!
+		Ask God to give you His perspective on His plan revealed in the Bible. Since He desires for you to see truth with clarity... ask Him!
  
-	2.  An Intentional Pursuit .. of God's metanarrative
+	2.  An Intentional Pursuit ... of God's plan
 		
-		Pursue Scripture where God's metanarrative is visibly summarized in condensed passages... like Luke 22 and 24; Acts 10 and 17 
+		Pursue Scripture where the big picture is visibly summarized in condensed passages... like Luke 22 and 24; Acts 10 and 17 
  
-	3. An Intentional Plan ... for understanding God's metanarrative (Choose one of the ideas from the Live the Word section to try this week.)
+	3. An Intentional Plan ... for understanding God's plan (Choose one of the ideas from the Live the Word section to try this week.)
 
 	
 .. topic:: *But I'm not a Christian...*
@@ -243,9 +202,7 @@ H. **Three components of understanding God's plan**
 
 		*1. What kind of Book is the Bible?*
 
-		*2. How did we get the Bible?*
-
-		*3. Read Acts 17: 24-31*
+		*2. Read Acts 17: 24-31*
 
 			Identify big picture components that Paul highlighted while in Athens.
 

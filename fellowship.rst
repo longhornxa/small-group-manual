@@ -5,88 +5,85 @@ Loving Others through Fellowship
 Introduction
 ------------
 
-**Develop your relationship with God**
+**Fellowship**
 
-In order to get to know someone it is necessary to spend time with that person.  If you want to know God it is no different.  Spending time alone with God connects you to his Spirit and allows you to know the God of the universe in a personal way.    This communion is the basis for your existence as a believer in Christ.  This lesson will encourage you and equip you to set aside time to be in relationship with your Heavenly Father. 
+Fellowship is much more than just getting together, talking and eating.  These things are perhaps some of the outward expressions of fellowship. True fellowship is how we live out Jesus command to "Love one another as I have loved you" (John 13:34) Our attitude towards other Christians and how we treat each other can also reflect our love for God. What our fellowship shows about our relationships is also usually what attracts or repels others about our community. 
 
 .. only:: leader
 
 	How did it go?
 	^^^^^^^^^^^^^^
-	1.  From last week’s lesson what did you learn about being a disciple of Jesus?
-	2.  What did you do this week to practice being a disciple?
+	1.  From last week’s lesson what did you learn about obedience?
+	2.  Was there any specific opportunity you had this week to practice obedience to God?
+	3.  Were you able to meet with an accountability partner this week? 
 
   	.. topic:: *But, I'm not a Christian ...*
    		
-    		* *Where do you think you are in terms of considering a decision to follow Jesus?*
-     		* *What is one thing that you think would make it difficult for you to become Jesus' disciple?*
+    		* *When you were growing up who were you taught to obey? Was any religion part of your moral teaching as a child?*
+     		* *What do you think are some of the things that God wants us to do in order to be able to say that we obey God?*
 
 	Who We Are
 	^^^^^^^^^^
 
-	One member of the group should be prepared to share a 15 minute version of their background and spiritual journey.
+	Discuss 
+		If you could pick any woman in the Bible to be your mother, who would you pick? (Or woman in history if not familiar with Bible women)
+		See suggestions in History Sharing Appendix.
  
 	What About You?
 	^^^^^^^^^^^^^^^
-	1.  Do you regularly spend time with God?
-	2.  Where, when and how do you usually spend time with God?
-	3.  What is the biggest challenge that you face when trying to spend time with God?
+	1.  What kind of people do you enjoy spending time with?
+	2.  When do you find it the most difficult to show love to someone?
+	3.  Do you remember a time when someone really reached out to you to show you love and friendship when you needed it? 
+	4.  If you could imagine the perfect Christian community, what would be some words to describe the community? 
 
 	.. topic:: *But, I'm not a Christian ...*
 
-   			*1. How do you get to know someone that you don’t know very well?*
+   			*1. What do you think about how Christians treat each other and people who are not Christians?*
 
-   			*2. Christians think that spending time with God helps us to get to know God better.  Usually this means spending   time every day talking to God in prayer and reading the Bible to find out what God says.*
+   			*2. What are some of the ways that you can tell that someone truly cares about you and wants to be your friend?*
 
-   			*3. Have you ever prayed?   What was the experience like?*
 
-   			*4. Did you ever read the Bible or hear anything about the Bible when you were growing up?*
-
-   			*5. We are going to look at some verses in the Bible that talk about getting to know God better.*
 
 Theme Scriptures
 ----------------
 
-**Mark 1:35** 
-	*Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.*
- 
-**Matthew 6:6** 
-	*"But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you."*
- 
-**Psalms 42:1-2**
-	*"As the deer pants for streams of water, so my soul pants for you, my God. My soul thirsts for God, for the living God. When can I go and meet with God?"*
+**John 13:34-35**
+	*“A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.”*
+
+**1 John 4:19-21**
+	*"We love because he first loved us. Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen. And he has given us this command: Anyone who loves God must also love their brother and sister."*
+
+**Hebrews 10:24-25**
+	*"And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching."*
+
 
 In the Word
 -----------
 
-A.	**Discuss the Purpose of Daily Devotional Time with God**
+A.	**True Fellowship is showing love to others just as Jesus has showed love to us**
 
-	1. Read Philippians 3:7-14 and discuss
+	1. Read John 13:34-35. What are some of the ways that Jesus has shown love to you? 
 
 		.. only:: leader
 			.. topic:: *Leader Note* 
-				Knowing Christ, Pressing on to take hold of that for which Christ took hold of me,  Winning the prize for which God has called us heavenward in Christ Jesus
+				For example: Jesus has accepted me just the way I am.  Jesus has forgiven me for the wrong things I have done. 
  		
  		`__________________________________________________________________________`
 		`__________________________________________________________________________`
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
-	2. Read John 15:4-15
+	2.  For each way that Jesus has shown his love for you, give one practical example of how you could show that same love to someone else. 
 
-		What does it mean to abide in Christ?
-
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		
-		What is the result if we don’t abide in Christ?
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-		According to these verses how do we develop a friendship with Christ?
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
- 
+		.. only:: leader
+			.. topic:: *Leader Note* 
+				For example: Jesus has forgiven me.  I can forgive my roommate when he/she does something to offend or hurt me.
+		
 B. **How do these people from the Bible model spending time with God**
 
 	.. only:: leader

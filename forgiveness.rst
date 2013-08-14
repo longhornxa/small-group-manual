@@ -7,9 +7,8 @@ Forgiveness
 .. only:: leader
 	How did it go?
 	^^^^^^^^^^^^^^
-	1. What did you learn last week about the Holy Spirit?
-	2. Did you see any change in your life? In your Service? In your walk with God?
-	3. Was there anything else that you would like to learn about or ask the Holy Spirit?
+	1. Did you have any good opportunities to fellowship with other Christians this week?
+	2. What is one thought about fellowship that stood out to you in the previous lesson?
 
 	Who We Are
 	^^^^^^^^^^   
@@ -23,12 +22,11 @@ Forgiveness
 	3. Tell about a time where you had to forgive someone.
  
 	.. topic:: *But I’m not a Christian ...*
-		1. *Do you think there are absolute laws/rules? When they are broken how do they effect others?*
-		2. *Do you think that forgiveness is important why or why not?*
-		3. *Christians believe that God loves us and forgiveness us and we should do the same to others when they do harm against us. Do you agree with this why or why not?*
-		4. *Do you need to be forgiven of anything? by whom?*
-		5. *Do you know what sin is and how it effects your relationship/standing with God?*
-
+		1. *Do you think there are absolute laws/rules? When they are broken how do they affect others?*
+		2. *Do you think that forgiveness is important? Why or why not?*
+		3. *Christians believe that God loves us and forgives us, so we should do the same to others when they hurt us. What is your opinion about why we should forgive others?*
+		4. Why is it so difficult to forgive others? Do you think there are any times when we should not forgive? 
+	
 Theme Scripture
 ----------------
 
@@ -51,7 +49,7 @@ In the Word
 2. Forgiveness is a choice. Do you agree or disagree with this statement? why?
 	`__________________________________________________________________________`
 
-3. Read and discuss who is forgiving in these passage? What are the results or benefits?
+3. Read and discuss what the Bible says about forgiveness in these passages.
     
 	* Psalm 130:3-5
 	`__________________________________________________________________________`
@@ -59,15 +57,39 @@ In the Word
 	`__________________________________________________________________________`
 	* Matthew 18:21-35
  	`__________________________________________________________________________`
-	* Genesis 50:16-18
-	`__________________________________________________________________________`
+
+
+	.. only:: leader
+			.. topic:: *Leader Note* 
+				* Psalm 130:3-5  Discuss forgiveness from God
+				* Mark 11:24-26  Discuss how our forgiving others affects our relationship with God
+				* Matthew 18:21-35  The parable of the unmerciful servant.  
+
 
 .. topic:: *But I'm not a Christian ...*
-	Read Luke 23:32-43
-	???????
+	Read Matthew 18:21-35
+		1. What did the king in the story do when his servant begged for mercy? 
+		`__________________________________________________________________________`
+		2. What did this servant do as soon as he had been forgiven? 
+		`__________________________________________________________________________`
+		3. Why do you think the king was angry? 
+		`__________________________________________________________________________`
+		4.  In this story, the king represents God.  What do you think this story is saying about why it is so important for us to forgive other people? 
+		`__________________________________________________________________________`
+
 
 Live the Word
 -------------
+
+1. Do you need to ask God for forgiveness?
+ 
+	.. topic:: How to ask God for forgiveness.
+
+		1. Be honest with God about what you have done that you know is wrong.
+		2. You need to realize that your debt has been paid.
+ 		3. Remind yourself what Christ has done for you.  
+ 		4. Allow the Holy Spirit to heal your soul/heart.
+ 		5. realize that forgiveness is a journey/process 
 
 1. Do you need to forgive yourself?
  

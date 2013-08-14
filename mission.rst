@@ -21,11 +21,11 @@ Awesome intro para...
  
 	Who We Are
 	^^^^^^^^^^ 
-	Do you have a life mission statement or verse? If so what is it and why did you choose. If not take a few minutes to write one and share it with the group.
+	* Do you have a life mission statement or verse? If so what is it and why did you choose. If not take a few minutes to write one and share it with the group.
 
-	*OR*
+	**OR**
 
-	Discuss your favorite adventure movie. What was the mission of the movie/main characters?
+	* Discuss your favorite adventure movie. What was the mission of the movie/main characters?
 
 	.. topic:: *Leader Note*
 		You might want to ask them to come prepared for this or give time to write.
@@ -57,9 +57,10 @@ Review the theme Scriptures at the beginning of the lesson.
 1. We should remember that the Jesus’ first priority is that we be with him. 
 	* Why do you that Jesus wanted his disciples to be with him in relation to preaching the gospel?
 	* Based on this where do you think you need to start? In being with Jesus? In preaching?
- 
-	..topic:: Note  
-		We don’t stop sharing the gospel just because we’ve missed a quiet time. However, it should always be our top priority to live from the overflow of God and not in our own strength. 
+	
+.. topic:: *Note*
+
+	We don’t stop sharing the gospel just because we’ve missed a quiet time. However, it should always be our top priority to live from the overflow of God and not in our own strength.
 
 2. The second priority Jesus gave was that we should preach the gospel.
 	* What does preaching the gospel mean to you?
@@ -69,6 +70,7 @@ Review the theme Scriptures at the beginning of the lesson.
 4. Mathew 28:16-20 is called the Great Comission (CO-mission)
 
 	**Matthew 28:16-20**
+
 		16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go.17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said,“All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20  and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
 
 	* what is the mission?
@@ -123,6 +125,7 @@ Live the Word
  
 
 .. topic:: *But I’m not a Christian ...*
+
 	* You might not have come to believe 100% that Jesus is the way to God but you can still share with others your thoughts about God or thought about what you have learned about the Bible.
 	* You can still live with others in Mind. Do something nice for someone this week that you normally wouldn’t do. 
  	* You can also take time this week to explore in greater detail what it means to be a Christian. Specifically what is the Gospel.

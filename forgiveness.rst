@@ -2,6 +2,9 @@
 Forgiveness
 ===========
 
+Introduction
+------------
+
 **pithy statement**
 
 Sometimes forgiveness is a hard subject to discuss because of the deep emotions that come with it. We all know what it is like to be hurt by someone, some of us so bad that it has changed us and we haven’t been the same since that hurt was administered to us. Yet as Christians Christ calls us to live above that hurt and to walk in forgiveness to those who have done us wrong. As we meditate on the great forgiveness of God to us we are reminded of Jesus’ words in Luke 6:36 “Forgive and you will be forgiven.”
@@ -50,6 +53,7 @@ Theme Scripture
 
 In the Word
 -----------
+
 1. What is forgiveness and what does it mean to you?
 	`__________________________________________________________________________`
 
@@ -141,25 +145,27 @@ In the Word
 		3. Pray and ask God to help you forgive that person.
 		4. Pray about whether you need to have a conversation with that person (focus on your part of the problem and restoring the relationship, not blaming them for what they have done)
 
-.. topic:: *But I"m not a Christian... *
+.. topic:: *But I"m not a Christian...*
 
 	1. Are you interested in learning about how God forgives you?
 	2. Talk to God this week ask Him to forgive anything that comes to your mind or bad things that you know that you have done.
 	3. Read 1 John 1:9 This verse talks about receiving forgiveness from God.
 	4. Becoming a Christian simply means acknowledging that you are living far away from God and that you need his help to live a life of true purity and goodness. The Bible says in Romans 10:9 that if you confess with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved.
 
+.. only:: leader
 
-	.. only:: leader
+	.. topic:: *Leader Note*
 
 		Leaders talk to the non-Christians in your group about about salvation and if ready lead them in the sinners prayer.
+
 
 Live the Word
 -------------
 
-1.  Spend extra time in your prayer time this week on Confession (asking forgiveness from God for areas of disobedience). List specific areas of disobedience that you want God to help you with. 
-2.  Meet with an accountability partner this week and ask each other accountability questions to help each other grow. Pray with each other asking God for forgiveness in areas where you have messed up. 
-3.  If anyone came to mind during the discussion about asking others to forgive you or forgiving someone else, follow through with the steps listed to do this this week. If you need to talk to them, find a time to talk with the person to extend or ask for forgiveness. 
-4.  If you have a lot of trouble forgiving yourself,a trained counselor can help you work through this.  If you 
+1. Spend extra time in your prayer time this week on Confession (asking forgiveness from God for areas of disobedience). List specific areas of disobedience that you want God to help you with. 
+2. Meet with an accountability partner this week and ask each other accountability questions to help each other grow. Pray with each other asking God for forgiveness in areas where you have messed up. 
+3. If anyone came to mind during the discussion about asking others to forgive you or forgiving someone else, follow through with the steps listed to do this this week. If you need to talk to them, find a time to talk with the person to extend or ask for forgiveness. 
+4. If you have a lot of trouble forgiving yourself,a trained counselor can help you work through this. If you 
 
 
 Resources

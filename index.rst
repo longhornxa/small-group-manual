@@ -47,8 +47,7 @@ Theme Scripture:
    	fellowship
    	forgiveness
 	service
-	
-	
-	
+	mission
+
 
 

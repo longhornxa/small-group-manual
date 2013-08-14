@@ -2,8 +2,9 @@
 Forgiveness
 ===========
 
-**Sometimes forgiveness is a hard subject to discuss because of the deep emotions that come with it. We all know what it is like to be hurt by someone, some of us so bad that it has changed us and we haven’t been the same since that hurt was administered to us. Yet as Christians Christ calls us to live above that hurt and to walk in forgiveness to those who have done us wrong. As we meditate on the great forgiveness of God to us we are reminded of Jesus’ words in Luke 6:36 “Forgive and you will be forgiven.”**
+**pithy statement**
 
+Sometimes forgiveness is a hard subject to discuss because of the deep emotions that come with it. We all know what it is like to be hurt by someone, some of us so bad that it has changed us and we haven’t been the same since that hurt was administered to us. Yet as Christians Christ calls us to live above that hurt and to walk in forgiveness to those who have done us wrong. As we meditate on the great forgiveness of God to us we are reminded of Jesus’ words in Luke 6:36 “Forgive and you will be forgiven.”
 
 .. only:: leader
 
@@ -38,12 +39,12 @@ Theme Scripture
 
 **Psalm 130:3-5**
 
-	*If you, Lord, kept a record of sins,
-		Lord, who could stand?
-	But with you there is forgiveness,
-    	so that we can, with reverence, serve you.
-	I wait for the Lord, my whole being waits,
-    	and in his word I put my hope.*
+	*If you, Lord, kept a record of sins,*
+		*Lord, who could stand?*
+	*But with you there is forgiveness,*
+    	*so that we can, with reverence, serve you.*
+	*I wait for the Lord, my whole being waits,*
+    	*and in his word I put my hope.*
 
 **Mark 11:24-26** *Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours. And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.”*
 
@@ -59,13 +60,15 @@ In the Word
     
 	* Psalm 130:3-5
 	`__________________________________________________________________________`
+
 	* Mark 11:24-26
 	`__________________________________________________________________________`
+
 	* Matthew 5:23
 	`__________________________________________________________________________`
+
 	* Matthew 18:21-35
  	`__________________________________________________________________________`
-
 
 
 	.. only:: leader
@@ -81,13 +84,17 @@ In the Word
 .. topic:: *But I'm not a Christian ...*
 
 	Read Matthew 18:21-35
-		1. What did the king in the story do when his servant begged for mercy? 
+
+	1. What did the king in the story do when his servant begged for mercy?
 		`__________________________________________________________________________`
-		2. What did this servant do as soon as he had been forgiven? 
+
+	2. What did this servant do as soon as he had been forgiven?
 		`__________________________________________________________________________`
-		3. Why do you think the king was angry? 
+
+	3. Why do you think the king was angry?
 		`__________________________________________________________________________`
-		4.  In this story, the king represents God.  What do you think this story is saying about why it is so important for us to forgive other people? 
+
+	4. In this story, the king represents God.  What do you think this story is saying about why it is so important for us to forgive other people?
 		`__________________________________________________________________________`
 
 
@@ -108,6 +115,7 @@ In the Word
  		5. Change your life patterns so that you do not repeat this sin.
 
 5.  Is there anyone who you think might have something against you?
+   
    .. topic:: How to ask someone for forgiveness.
 
 		*. First ask God for forgiveness and wisdom about how to talk to the other person. 
@@ -147,6 +155,7 @@ In the Word
 
 Live the Word
 -------------
+
 1.  Spend extra time in your prayer time this week on Confession (asking forgiveness from God for areas of disobedience). List specific areas of disobedience that you want God to help you with. 
 2.  Meet with an accountability partner this week and ask each other accountability questions to help each other grow. Pray with each other asking God for forgiveness in areas where you have messed up. 
 3.  If anyone came to mind during the discussion about asking others to forgive you or forgiving someone else, follow through with the steps listed to do this this week. If you need to talk to them, find a time to talk with the person to extend or ask for forgiveness. 

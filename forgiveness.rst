@@ -1,11 +1,11 @@
-﻿===========
-Forgiveness
-===========
+﻿=========================
+Loving Othes: Forgiveness
+=========================
 
 Introduction
 ------------
 
-**pithy statement**
+**Can you forgive as you have been forgiven?**
 
 Sometimes forgiveness is a hard subject to discuss because of the deep emotions that come with it. We all know what it is like to be hurt by someone, some of us so bad that it has changed us and we haven’t been the same since that hurt was administered to us. Yet as Christians Christ calls us to live above that hurt and to walk in forgiveness to those who have done us wrong. As we meditate on the great forgiveness of God to us we are reminded of Jesus’ words in Luke 6:36 “Forgive and you will be forgiven.”
 

@@ -5,233 +5,155 @@ Loving Others through Fellowship
 Introduction
 ------------
 
-**Develop your relationship with God**
+**Fellowship**
 
-In order to get to know someone it is necessary to spend time with that person.  If you want to know God it is no different.  Spending time alone with God connects you to his Spirit and allows you to know the God of the universe in a personal way.    This communion is the basis for your existence as a believer in Christ.  This lesson will encourage you and equip you to set aside time to be in relationship with your Heavenly Father. 
+Fellowship is much more than just getting together, talking and eating.  These things are perhaps some of the outward expressions of fellowship. True fellowship is how we live out Jesus command to "Love one another as I have loved you" (John 13:34) Our attitude towards other Christians and how we treat each other can also reflect our love for God. What our fellowship shows about our relationships is also usually what attracts or repels others about our community. 
 
 .. only:: leader
 
 	How did it go?
 	^^^^^^^^^^^^^^
-	1.  From last week’s lesson what did you learn about being a disciple of Jesus?
-	2.  What did you do this week to practice being a disciple?
+	1.  From last week’s lesson what did you learn about obedience?
+	2.  Was there any specific opportunity you had this week to practice obedience to God?
+	3.  Were you able to meet with an accountability partner this week? 
 
   	.. topic:: *But, I'm not a Christian ...*
    		
-    		* *Where do you think you are in terms of considering a decision to follow Jesus?*
-     		* *What is one thing that you think would make it difficult for you to become Jesus' disciple?*
+    		* *When you were growing up who were you taught to obey? Was any religion part of your moral teaching as a child?*
+     		* *What do you think are some of the things that God wants us to do in order to be able to say that we obey God?*
 
 	Who We Are
 	^^^^^^^^^^
 
-	One member of the group should be prepared to share a 15 minute version of their background and spiritual journey.
+	Discuss 
+		If you could pick any woman in the Bible to be your mother, who would you pick? (Or woman in history if not familiar with Bible women)
+		See suggestions in History Sharing Appendix.
  
 	What About You?
 	^^^^^^^^^^^^^^^
-	1.  Do you regularly spend time with God?
-	2.  Where, when and how do you usually spend time with God?
-	3.  What is the biggest challenge that you face when trying to spend time with God?
+	1.  What kind of people do you enjoy spending time with?
+	2.  When do you find it the most difficult to show love to someone?
+	3.  Do you remember a time when someone really reached out to you to show you love and friendship when you needed it? 
+	4.  If you could imagine the perfect Christian community, what would be some words to describe it? 
 
 	.. topic:: *But, I'm not a Christian ...*
 
-   			*1. How do you get to know someone that you don’t know very well?*
+   			*1. What do you think about how Christians treat each other and people who are not Christians?*
 
-   			*2. Christians think that spending time with God helps us to get to know God better.  Usually this means spending   time every day talking to God in prayer and reading the Bible to find out what God says.*
+   			*2. What are some of the ways that you can tell that someone truly cares about you and wants to be your friend?*
 
-   			*3. Have you ever prayed?   What was the experience like?*
 
-   			*4. Did you ever read the Bible or hear anything about the Bible when you were growing up?*
-
-   			*5. We are going to look at some verses in the Bible that talk about getting to know God better.*
 
 Theme Scriptures
 ----------------
 
-**Mark 1:35** 
-	*Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.*
- 
-**Matthew 6:6** 
-	*"But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you."*
- 
-**Psalms 42:1-2**
-	*"As the deer pants for streams of water, so my soul pants for you, my God. My soul thirsts for God, for the living God. When can I go and meet with God?"*
+**John 13:34-35**
+	*“A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.”*
+
+**1 John 4:19-21**
+	*"We love because he first loved us. Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen. And he has given us this command: Anyone who loves God must also love their brother and sister."*
+
+**Hebrews 10:24-25**
+	*"And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching."*
+
 
 In the Word
 -----------
 
-A.	**Discuss the Purpose of Daily Devotional Time with God**
+A.	**True Fellowship is showing love to others just as Jesus has showed love to us**
 
-	1. Read Philippians 3:7-14 and discuss
+	1. Read John 13:34-35. What are some of the ways that Jesus has shown love to you? 
 
 		.. only:: leader
 			.. topic:: *Leader Note* 
-				Knowing Christ, Pressing on to take hold of that for which Christ took hold of me,  Winning the prize for which God has called us heavenward in Christ Jesus
+				For example: Jesus has accepted me just the way I am.  Jesus has forgiven me for the wrong things I have done. 
  		
  		`__________________________________________________________________________`
 		`__________________________________________________________________________`
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
-	2. Read John 15:4-15
+	2.  For each way that Jesus has shown his love for you, give one practical example of how you could show that same love to someone else. 
 
-		What does it mean to abide in Christ?
-
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		
-		What is the result if we don’t abide in Christ?
+		.. only:: leader
+			.. topic:: *Leader Note* 
+				For example: Jesus has forgiven me.  I can forgive my roommate when he/she does something to offend or hurt me.
+		
+B. **Fellowship is essential to our spiritual growth**
+				
+	1. Read 1 John 4:7-21.  Why is loving others so important to our spiritual growth? 
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-		According to these verses how do we develop a friendship with Christ?
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
- 
-B. **How do these people from the Bible model spending time with God**
-
-	.. only:: leader
-
-		.. topic:: *Leader Note*
-			Ask each member look up one of these examples and share how the person modeled spending time with God
-
-	* **Jesus** -- Mark 1:35 
-
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
+		* `__________________________________________________________________________`
+		*`__________________________________________________________________________`
+	 	*`__________________________________________________________________________`
+		*`__________________________________________________________________________`
 	
-	* **Moses** -- Exodus 33:7-11 
+	.. only:: leader
+			.. topic:: *Leader Note*
+				Answers may vary.  Here are some possible answers.
+				1. Verse 8 - Whoever does not love does not know God.
+				2. Verse 11 - As we grow in understanding God's love for us, we will grow in our love for one another
+				3. Verse 17 - When we love others, we become more like Jesus. 
+				4. Verse 20 - If we claim to love God but hate a brother or sister, we are liars and disobedient to what Christ commands.
+			
+	2. Read Hebrews 10:24-25. Discuss what these verses say about how fellowship can help our spiritual growth. 
 
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
-
-	* **David** -- Psalm 5:3 
-
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
-
-	* **Daniel** -- Daniel 6:10 
-
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
- 
-C. **Discuss Tips and Ideas for Spending Consistent Time with God**
-
+ 		 * `__________________________________________________________________________`
+		 *`__________________________________________________________________________`
+	 	 *`__________________________________________________________________________`
+	  
+	
 	.. only:: leader
 
 		.. topic:: *Leader Note*
 
-			For each point, share your own experience and ask the group to share good times, places and plans they have used for spending time with God.  Make the discussion as interactive as possible.
- 
-	1. A Consistent Time
+			Some possible answers could include spurring each other on to love and good deeds (v.24), being obedient to the command to assemble together and encouraging each other (v. 25) 
 
-		.. only:: leader
+C. **Fellowship in the Early Church**
 
-			* At least 30 minutes suggested but start where you can.
-			* Quality not quantity.
-			* Try to spend time every day consistently
+	1. Read Acts 2:42-47. 
+	   
+	2. What are some examples of how the early church fellowshipped with one another?
 
-		.. only:: student
+ 		 *`__________________________________________________________________________`
+		 *`__________________________________________________________________________`
+	 	 *`__________________________________________________________________________`
 
-			* `____________________________________`
-			* `____________________________________`
-			* `____________________________________`
+	3.  What were some of the results that they saw in their love for God and each other?
+	     * `__________________________________________________________________________`
+		 *`__________________________________________________________________________`
+	 	 *`__________________________________________________________________________`
 
-	2. A Consistent Place
-
-		.. only:: leader
-
-			* As Free from Distractions as possible
-			* Accessible
-			* Solitary
-
-		.. only:: student
-
-			* `____________________________________`
-			* `____________________________________`
-			* `____________________________________`
-
-	3. A Consistent Plan
-
-		* Spend time talking to God
-
-			* Use a prayer plan (through the Lord’s prayer or ACTS) (see Chapter 6: Knowing God through Prayer)
-			
-			* Pray for different people every day (Monday- missionaries, Tuesday-Relatives, Wednesday—Small group members, etc.)
-
-			* Tell God about what is going on in your life and ask for His input. As you read the Word, listen for what he might speak to your situation.
-
-			* Prepare your heart to hear from God by confessing sin and being in a worshipful attitude
-
-		* Spend time in the Word of God
-
-			* Start a Bible reading plan
-
-			* Use a daily devotional book
-
-			* Don’t just read—spend time memorizing, meditating on scripture, reflecting on Scripture and journaling what God is speaking to you through Scripture.
-
-		* Spend time in Worship
-
-			* Put on Worship music and sing along
-
-			* If you play an instrument, play and worship
-
-			* Spend time thanking God for specific things
-
-			* Spend time saying the names of God and praising Him for who He is in your life. 
-
-D. **Spirtual Disciplines Survey**
-
-	Look at the Spiritual Disciplines survey and mark which disciplines you participate in regularly, occasionally or never.  After marking, share one area in which you would like to grow.
-
-.. topic:: *But I’m not a Christian...*
- 
-        *1. Read John 15:4-15*
-
-        *2. According to these verses how do we develop a friendship with Jesus?*
-
-        *3. Discuss how prayer and the Bible relate to being Jesus’ friend.*
-
-        *4. Discuss tips and ideas for spending time with God. See section above.*
-
-        .. only:: leader
-
-        	.. topic:: *Leader Note*
-
-			   	* Ask them about their schedule and times when they are by themselves.  
-				* Discuss quiet places that are good for meditation or study.  
-				* Give the basics for starting to know God through simple prayer and Bible reading
+		
 
 Live the Word
 -------------
  
-1. Try to spend at least 30 minutes alone with God each day this week. Use the scheduling chart or a calendar on your phone or computer to schedule when you will have time with God this week
-2. Try something new in your time with God that you found on the survey that you do ‘rarely’ or ‘never’. 
+1. Do your own Bible study on fellowship by looking at at least 10 of the 'one another' verses in the New Testament.  Use Biblegateway.com or a concordance to find verses that mention what we should do with and to "one another".  Use these verses to make a list of all the different things that God would like to see in our community.
+2. Plan a time for your small group to hang out and fellowship with each other sometime in the next couple of weeks. 
+3. Invite someone in one of your spiritual communities (church, Chi Alpha, small group) to your home for dinner one day this week or on the weekend. 
+4. Choose one of the examples that was given during the discussion of John 13:35 and intentionally do it this week to show love to someone in your community. 
 
 .. topic:: *But I'm not a Christian* 
 
-   *1. Are you interested in trying to know God better?*
+   *1. Have you noticed anything that is different about Christian groups you have visited?*
    
-   *2. Talk to God this week. Tell Him that you want to get to know him better. Talk to him about what is happening in your life and ask for help.*
+   *2. If you do not regularly go to church or to Life group, try it this week as an opportunity to learn more about what it means to be part of a Christian group.*
 
-   *3. Read Psalm 27 and Psalm 42 this week.*
+   *3. Invite a Christian friend to do something fun with you this week.*
   
 Resources
 ---------
-* Time Scheduler
-	- Excel - http://longhornxa.com/wp-content/uploads/2012/09/Weekly-Schedule-Template.xls 
-	- PDF - http://longhornxa.com/wp-content/uploads/2012/09/Weekly-Schedule-Template.pdf 
-* List of Spiritual Disciplines - http://longhornxa.com/wp-content/uploads/2012/09/List-of-Spiritual-Disciplines.pdf
-* Spiritual Disciplines Survey 
-	- http://longhornxa.com/wp-content/uploads/2012/09/Spiritual-Disciplines-Survey.pdf
-	- http://longhornxa.com/wp-content/uploads/2012/09/Understanding-and-Experiencing-Spiritual-Disciplines-Survey.pdf
-* An Invitation to the Spiritual Life 
-* One Thing Prayer Guide [UNT XA]
-* Bible Reading Plans [bible gateway/youversion]
+* Longhornxa.org  - See what opportunities for fellowship are coming up this week in our community.
  
 Recommended Reading
 ------------------- 
-* Out of Solitude by Henri Nouwen
-* Beyond the Quiet Time by Alister McGrath
-* Streams in the Desert by Cowman
-* The Pursuit of God by A.W. Tozer
+* Everybody's Normal Til you Get to Know Them by John Ortberg
+* University of Virginia article
+* Fellowship article from Discipleship Journal. 
+*

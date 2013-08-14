@@ -49,7 +49,6 @@ tags.add('leader')
 xa_filename=u'longhornxa_small_groups_leader_manual'
 xa_name=u'LonghornXA Small Groups Leader Manual'
 
-
 # General information about the project.
 project = xa_name
 copyright = u'2012, Chi Alpha Christian Fellowship at the University of Texas'

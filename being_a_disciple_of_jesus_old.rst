@@ -139,9 +139,17 @@ D. **The Marks of a Disciple**
 
 E. **Reflection**
 
+.. only:: leader
+
+    .. topic:: *Leader Note*
+
+      Have the group members think about and discuss the reflection questions and then read through the options in the Live the Word section below with your group. Have each person in your small group choose one of the ideas (or create their own) and share with the group which they will try to do this week.
+
     1. Consider the marks of a disciple of Jesus: obeying the teachings of Christ, showing love for other believers and bearing fruit to the glory of God, and give an example of how a disciple might demonstrate these.
  
-    2. In my life today am I actively imitating Christ as His disciple?
+    2. Do you feel that you have been trying to actively follow Christ's example as His disciple?
+    3. What is one step you will take this week to follow Jesus as His disciple?
+
 
 .. topic:: *But I'm not a Christian...*
 
@@ -166,9 +174,10 @@ E. **Reflection**
 Live the Word
 -------------
 
-1. What is one step you will take this week to follow Jesus as His disciple?
-2.  Read some of the teachings of Jesus from one of the Gospels this week. Meditate on how a 21st century disciple could put these into practice. 
-3. One of the marks of a disciple is to "show love to other believers".  Find a way this week to be a blessing to another Christian. 
+
+#.  Read some of the teachings of Jesus from one of the Gospels this week. Meditate on how a 21st century disciple could put these into practice. 
+#. One of the marks of a disciple is to "show love to other believers".  Find a way this week to be a blessing to another Christian. 
+#. Decide on your own way to follow Jesus more in discipleship this week and have an accountability partner ask you about it sometime during the week. 
 
 Resources
 ---------

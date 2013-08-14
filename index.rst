@@ -44,9 +44,11 @@ Theme Scripture:
 .. toctree::
    	:maxdepth: 1
    	:numbered:
-
+   	fellowship
+   	forgiveness
 	service
-	forgiveness
+	
+	
 	
 
 

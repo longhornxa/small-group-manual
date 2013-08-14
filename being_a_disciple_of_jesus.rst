@@ -1,13 +1,13 @@
-=======================================
-Loving God by Being a Disciple of Jesus
-=======================================
+======================================
+Loving God: Being a Disciple of Jesus
+======================================
 
 Introduction
 ------------
 
-**Love God -- By becoming a Jesus' disciple**
+**Love God -- By becoming Jesus' disciple**
 
-One of the last things that Jesus shared with his disciples was the command to make more disciples. As followers of Christ we too are encouraged to be a disciple and make disciples.  Have you ever wondered how to do that? Have you ever wanted to change or grow in an area of your life or spiritual journey? Jesus' answer for this was discipleship.  This lesson will give you ways in which you can grow in your relationship with Christ with the goal of being transformed into his image. 
+One of the last things that Jesus shared with his disciples was the command to make more disciples. As followers of Christ, we too are encouraged to be a disciple and make disciples.  Have you ever wondered how to do that? Have you ever wanted to change or grow in an area of your life or spiritual journey? Jesus' answer for this was discipleship.  This lesson will give you ways in which you can grow in your relationship with Christ with the goal of being transformed into his image. 
 
 .. only:: leader
 
@@ -87,6 +87,7 @@ C. **The Goal of being a Disciple**
 		.. topic:: *Leader Note*
 
 			To be Christ's disciple, then, is to strive to be like Him! Do you have a strong desire to follow Jesus and become like Him? Unless you do, it cannot be said that you are truly His disciple!
+ 
  
 D. **The Marks of a Disciple**
 

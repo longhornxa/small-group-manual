@@ -2,6 +2,7 @@
 Loving God through Walking in Obedience
 =======================================
 
+** If we love God we will follow His commands.**
 *Obedience is perhaps the most important way that we can show our love for God.  In fact, Jesus states that if we love Him we will keep his commmandments.  If we say that we love God but we are not willing to obey God, then we are hypocrites in our faith. Obedience includes being willing to do what God asks us to do and being willing to stop doing what God tells us not to do. It's source should be a heart full of love for God, but it must go beyond the heart and become evident in our choices and actions. *
 
 

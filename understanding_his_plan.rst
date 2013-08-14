@@ -1,6 +1,6 @@
 
 ====================================
-Loving God by Understanding His Plan
+Loving God: Understanding His Plan
 ====================================
 
 Introduction

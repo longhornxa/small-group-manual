@@ -1,6 +1,6 @@
-=========================
-Loving God through Prayer
-=========================
+==================
+Loving God: Prayer
+==================
 
 **Prayer -- A dialogue with God**
 

@@ -1,6 +1,6 @@
-================================
-Loving God by Knowing Who God is
-================================
+==============================
+Loving God: Knowing Who God is
+==============================
 
 Introduction
 ------------
@@ -79,7 +79,7 @@ In the Word
 		`__________________________________________________________________________`
 
 #. **Read verses 12-17** 
-	Isaiah asks as series of questions beginning with “who” or “with whom.” 
+	Isaiah asks a series of questions beginning with “who” or “with whom.” 
 
 	* What insights do you learn about God's character from these verses?
 
@@ -88,6 +88,7 @@ In the Word
 
 #. **Read verses 18-26** 
 	Israel was tempted to forsake the living and true God for the false gods and idols of the neighboring nations. Isaiah asks, “What likeness will you compare with Him?” He concludes in verse 25 with God Himself asking the same question: “To whom will you compare me? Or who is my equal?.” 
+
 
 	* How is the true God different from the false gods?
 

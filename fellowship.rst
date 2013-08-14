@@ -5,9 +5,9 @@ Loving Others through Fellowship
 Introduction
 ------------
 
-**Fellowship**
+**Fun and Friendship are Important to our Spiritual Life**
 
-Fellowship is much more than just getting together, talking and eating.  These things are perhaps some of the outward expressions of fellowship. True fellowship is how we live out Jesus command to "Love one another as I have loved you" (John 13:34) Our attitude towards other Christians and how we treat each other can also reflect our love for God. What our fellowship shows about our relationships is also usually what attracts or repels others about our community. 
+Fellowship is much more than just getting together, talking and eating although these things are perhaps some of the outward expressions of fellowship. True fellowship is how we live out Jesus command to "Love one another as I have loved you" (John 13:34) Our attitude towards other Christians and how we treat each other can also reflect our love for God. What our fellowship shows about our relationships is also usually what attracts or repels others about our community. 
 
 .. only:: leader
 

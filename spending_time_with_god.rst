@@ -1,6 +1,6 @@
-====================================
-Loving God by Spending Time with God
-====================================
+==================================
+Loving God: Spending Time with God
+==================================
 
 Introduction
 ------------
@@ -221,8 +221,8 @@ Resources
 * Time Scheduler
 	- Excel - http://longhornxa.com/wp-content/uploads/2012/09/Weekly-Schedule-Template.xls 
 	- PDF - http://longhornxa.com/wp-content/uploads/2012/09/Weekly-Schedule-Template.pdf 
-* List of Spiritual Disciplines - http://longhornxa.com/wp-content/uploads/2012/09/List-of-Spiritual-Disciplines.pdf
-* Spiritual Disciplines Survey 
+* List of Spiritual Disciplines http://longhornxa.com/wp-content/uploads/2012/09/List-of-Spiritual-Disciplines.pdf
+* Spiritual Disciplines Surveys
 	- http://longhornxa.com/wp-content/uploads/2012/09/Spiritual-Disciplines-Survey.pdf
 	- http://longhornxa.com/wp-content/uploads/2012/09/Understanding-and-Experiencing-Spiritual-Disciplines-Survey.pdf
 * An Invitation to the Spiritual Life 

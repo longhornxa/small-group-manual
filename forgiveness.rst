@@ -35,7 +35,7 @@ Sometimes forgiveness is a hard subject to discuss because of the deep emotions 
 		1. *Do you think there are absolute laws/rules? When they are broken how do they affect others?*
 		2. *Do you think that forgiveness is important? Why or why not?*
 		3. *Christians believe that God loves us and forgives us, so we should do the same to others when they hurt us. What is your opinion about why we should forgive others?*
-		4. Why is it so difficult to forgive others? Do you think there are any times when we should not forgive? 
+		4. *Why is it so difficult to forgive others? Do you think there are any times when we should not forgive?* 
 	
 Theme Scripture
 ----------------
@@ -162,10 +162,10 @@ In the Word
 Live the Word
 -------------
 
-1. Spend extra time in your prayer time this week on Confession (asking forgiveness from God for areas of disobedience). List specific areas of disobedience that you want God to help you with. 
-2. Meet with an accountability partner this week and ask each other accountability questions to help each other grow. Pray with each other asking God for forgiveness in areas where you have messed up. 
-3. If anyone came to mind during the discussion about asking others to forgive you or forgiving someone else, follow through with the steps listed to do this this week. If you need to talk to them, find a time to talk with the person to extend or ask for forgiveness. 
-4. If you have a lot of trouble forgiving yourself,a trained counselor can help you work through this. If you 
+1.  Spend extra time in your prayer time this week on Confession (asking forgiveness from God for areas of disobedience). List specific areas of disobedience that you want God to help you with. 
+2.  Meet with an accountability partner this week and ask each other accountability questions to help each other grow. Pray with each other asking God for forgiveness in areas where you have messed up. 
+3.  If anyone came to mind during the discussion about asking others to forgive you or forgiving someone else, follow through with the steps listed to do this this week. If you need to talk to them, find a time to talk with the person to extend or ask for forgiveness. 
+4.  If you have a lot of trouble forgiving yourself,a trained counselor can help you work through this.  If you feel you could benefit from this, make an appointment with a counselor you know or ask your small group leader if they have someone they could refer you to. 
 
 
 Resources
@@ -176,5 +176,5 @@ Resources
 Recommended Reading
 -------------------
 
-* *Thriving through Ministry Conflict* by James P. Osterhaus, Joseph M. Jurkowski, and Todd A. Hahn
-* Tools for mentoring chapter on Forgiveness MISSING LINK?PDF
+* Thriving through Ministry Conflict by James P. Osterhaus, Joseph M. Jurkowski, and Todd A. Hahn
+* Forgiveness chapter in Tools for Mentoring 

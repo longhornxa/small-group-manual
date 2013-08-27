@@ -6,9 +6,9 @@ Loving Others: Living a Missional Life
 Introduction
 ------------
 
-**What do you live for?**
+**How do we live missionally?**
 
-intro paragraph
+When we experience life transformation through Jesus Christ and bring this transformation to everything we do, we are living missionally.  This means sharing the good news of Christ with others and making disciples of all nations.  It also means living God's love and grace and having godly priorities whatever our life calling. Who we are and what we say are both important as we work to build God's kingdom.
 
 .. only:: leader
 
@@ -38,7 +38,7 @@ intro paragraph
  
 	What About You?
 	^^^^^^^^^^^^^^^
-	1. Have you been on an outreach before? Describe your experience.
+	1. Have you been on a missions trip or local outreach before? Describe your experience.
 
 	2. Is it hard for you to share your faith? Explain.
 
@@ -158,6 +158,7 @@ Resources
 
 * Section from Mentoring book on living a missional lifestyle MISSING DOC
 * List of creative ways to live missionally MISSING DOC
+* Models for Sharing the Gospel
 
 Recommended Reading
 -------------------

@@ -1,5 +1,5 @@
 ==========================
-Loving God through Worship
+Loving God: Worship
 ==========================
 
 **Worship -- Expressions of Love**
@@ -75,21 +75,24 @@ B. **What does worship mean in Hebrew and Greek?**  (the original languages of t
 
             **proskuneo**
 
-	           1. to kiss the hand to (towards) one, in token of reverence
-	           2. among the Orientals, esp. the Persians, to fall upon the knees and touch the ground with the forehead as an expression of profound reverence
+               1. to kiss the hand to (towards) one, in token of reverence
+             
+               2. among the Orientals, esp. the Persians, to fall upon the knees and touch the ground with the forehead as an expression of profound reverence
  
 C. **Read and Discuss Luke 7:44-48**
 
-	1. What actions did the woman take in this passage?
-
+    1. What actions did the woman take in this passage?
+     
         `__________________________________________________________________________`
         `__________________________________________________________________________` 
-	2. What was her attitude? 
 
+    2. What was her attitude? 
+     
         `__________________________________________________________________________`
         `__________________________________________________________________________`
-	3. How are the other people in this passage participating in worship?
 
+    3. How are the other people in this passage participating in worship?
+     
         `__________________________________________________________________________`
         `__________________________________________________________________________`
  
@@ -99,7 +102,8 @@ D. **Why do we worship?** Discuss what these two passages say about why we worsh
 
         `__________________________________________________________________________`
         `__________________________________________________________________________`
-	2. Hebrews 12:28
+	
+    2. Hebrews 12:28
 
         `__________________________________________________________________________`
         `__________________________________________________________________________`
@@ -133,9 +137,11 @@ C. **How do we worship?**
 
 D. **Discuss** 
 
-	1. What happens when there is no worship of the true God in a place, nation, etc? (missions exists because worship doesn't)
-	2. What is one way this week that you can bring worship into your life? 
-	3. What is one way you can invite others to join you in worship?  Or how can you bring worship into your area of influence?
+    1. What happens when there is no worship of the true God in a place, nation, etc? (missions exists because worship doesn't)
+    
+    2. What is one way this week that you can bring worship into your life? 
+    
+    3. What is one way you can invite others to join you in worship?  Or how can you bring worship into your area of influence?
 
 E. **Take one or two of the ways to worship God and practice them together.**
 
@@ -153,8 +159,10 @@ E. **Take one or two of the ways to worship God and practice them together.**
  
 Live the Word
 -------------
-1. During a worship service (aka life group, church, community gathering, etc)  try one new expression of worship. (For example if you have never raised your hands, raise them in praise, or you have never knelt down bow before the Lord, then kneel in worship).   
+1. During a worship service (aka life group, church, community gathering, etc)  try one new expression of worship. (For example if you have never raised your hands, raise them in praise, or you have never knelt down bow before the Lord, then kneel in worship).  
+
 2.  This week follow through with one act of obedience as worship to God. (for example if God is asking you spend a longer prayer time do it, if God has asked you to call some one, do)
+
 3.  Choose one of the ways to worship God mentioned in this lesson or the resources and try to focus on worshipping God for at least 15 minutes each day this week.  You can do the same type of worship every day or try a different one each day. 
  
 
@@ -169,13 +177,14 @@ Live the Word
 Resources
 ---------
 
-* Preparing for worship - http://blogfinch.files.wordpress.com/2011/11/preparing-for-worship.pdf 
-* List of Creative ways to Worship God by Rael Gore - http://longhornxa.com/wp-content/uploads/2012/09/Creative-Ways-to-Worship-God.pdf
+    * Preparing for worship - http://blogfinch.files.wordpress.com/2011/11/preparing-for-worship.pdf 
+
+    * List of Creative ways to Worship God by Rael Gore   http://longhornxa.com/wp-content/uploads/2012/09/Creative-Ways-to-Worship-God.pdf
  
 Recommended Reading
 -------------------
 
-* 10 Ways to Worship without Songs - http://www.saddleback.com/story/5071.html 
+* 10 Ways to Worship Without Songs - http://www.saddleback.com/story/5071.html 
 * Let the Nations be Glad by John Piper
 * The Worship Warrior by Church D. Pierce
 * Sacred Pathways by Gary Thomas

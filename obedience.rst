@@ -1,5 +1,5 @@
 ﻿=======================================
-Loving God through Walking in Obedience
+Loving God: Walking in Obedience
 =======================================
 
 ** If we love God we will follow His commands.**
@@ -17,21 +17,30 @@ Theme Scriptures
  
 	How did it go?
 	^^^^^^^^^^^^^^
-	1. From last week’s lesson what did you learn about Worship? 
+
+	1. From last week’s lesson what did you learn about worship? 
+	
 	2. How did you worship God this week? 
-	3. Did you do anything that would bring Worship into your circle of influence? 
+	
+	3. Did you do anything that would bring worship into your circle of influence? 
  
 	Who We Are 
 	^^^^^^^^^^  
+
 	* If you had a whole day free to do whatever you wanted, how would you spend it?
 	* See suggestions in History Sharing Appendix.
    
 	What About You? 
 	^^^^^^^^^^^^^^^
+
  	1. What were some of the rules that you were expected to obey as you were growing up?
+  	
   	2. Did you resent some of the rules, or did you recognize they were for your good? Explain.
+	
 	3. What are some reasons why people obey authorities?
+	
 	4. What is the difference between obedience based on fear and obedience based on love?
+ 	
  	5. What do you think the motive to obey God in your own life is based on?
 
 In the Word
@@ -51,6 +60,7 @@ B. Notice that God's love for us is not based on our obedience.
  	1. Read Romans 5:6-8  What do these verses say about God's love for us? 
  	`__________________________________________________________________________`
 	`__________________________________________________________________________`
+	
 	2. How does knowing God loves you even when you do not obey him make you feel about obeying God? 
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
@@ -68,6 +78,7 @@ C.  While God's love and acceptance are not based on our obedience, God will be 
 	3. What are ways that we can dedicate ourselves to God?
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
+	
 	4.  What are ways that you could imagine God using you in a greater way because of dedicating your life more to God?
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
@@ -80,19 +91,20 @@ C.  While God's love and acceptance are not based on our obedience, God will be 
  
 			Paul wants us to ask ourselves, which kind of vessel do I want to be in God's kingdom? If, as a Christian, I fill my mind and heart with "dishonorable" things before God, I can expect to be like a vessel for "dishonorable use" (like the scrub bucket or the garbage can or the dish we put the dog food in).
  
-	
-	* What do we find appealing to us about ______ that would keep us from honoring God by our actions?*
  
-	God may still use me for something in his kingdom, but there won't be much blessing in it. But, if I turn away from things that dishonor God, if I keep from my eyes and my mind from "what is dishonorable," then I will be to God like a dish made of gold or silver, "a vessel for honorable use ... ready for every good work." If we want God to use us in significant ways, we have to walk in obedience to him. 
+			God may still use me for something in his kingdom, but there won't be much blessing in it. But, if I turn away from things that dishonor God, if I keep from my eyes and my mind from "what is dishonorable," then I will be to God like a dish made of gold or silver, "a vessel for honorable use ... ready for every good work." If we want God to use us in significant ways, we have to walk in obedience to him. 
  
 
 D. Our obedience can help others who are not Christians come to Christ
+	
 	1.  Read - 1 Peter 2:12. According to this verse, what is another result of living an obedient life? 
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
 
 	2. How can our actions be a witness to unbelievers?
+	
 	3. Does the way that you treat others push them closer or further from God?
+	
 	4.  What are ways that you can live that would help others to draw closer to God?
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
@@ -106,36 +118,41 @@ D. Our obedience can help others who are not Christians come to Christ
  					Peter tells believers that their good conduct will be their defense against slander and will often lead to the conversion of those who first speak against them.
  
 
-
 E. Reflection: Think about your life, and answer these questions
  
-1. Is there any specific area of your life in which you are not fully loving God because of your disobedience to Him?
-2. What are things you can do to surrender those areas of disobedience to God and dedicate yourself to Him more fully?  
-3. Have you followed the Lord in obedience in water baptism? See Mathew 28:19-20.
+	1. Is there any specific area of your life in which you are not fully loving God because of your disobedience to Him?
+	
+	2. What are things you can do to surrender those areas of disobedience to God and dedicate yourself to Him more fully?  
+	
+	3. Have you followed the Lord in obedience in water baptism? See Mathew 28:19-20.
   
 Live the Word
 -------------
 
-1. Get with an accountability partner and ask each other accountability questions about your walk with God (use the list provided or make your own.) 
-2. Make a plan for specifically walking in obedience in a certain area of your life this week.
+	1. Get with an accountability partner and ask each other accountability questions about your walk with God (use the list provided or make your own.) 
+
+	2. Make a plan for specifically walking in obedience in a certain area of your life this week.
 	
-	Area: ______________________________________
+		Area: ______________________________________
 	
-	Steps this Week:   
-		A.__________________________________
-		B. _________________________________
-		C. _________________________________
-3. Become more familiar with what God has asked us to do.  Choose a teaching of Jesus or a pastoral epistle and read it this week.  Make a list of specific commands that should be obeyed in Scripture. 
+		Steps this Week:   
+			A.__________________________________
+			B. _________________________________
+			C. _________________________________
+			
+	3. Become more familiar with what God has asked us to do.  Choose a teaching of Jesus or a pastoral epistle and read it this week.  Make a list of specific commands that should be obeyed in Scripture. 
 
 .. topic:: *But I'm not a Christian...*
-	Read John 14:21
+	
+	A. Read John 14:21
  	
-	* *As you are learning about God, do you feel like He loves you and desires good for your life?*
-	* *Think about a follower of Jesus that you know. Does seeing other believers lives draw you closer or farther away from desiring to know God?* *Are they keeping God’s commands?*  
-	* *Why does God put so much emphasis on following his commands?*
-	* *Do you have a desire to please God in your own life?*
-	* *Do you think that there are any benefits for living a life like Jesus?*
-	* *Even if you haven’t fully given your life to follow Jesus, what are ways that you could dedicate yourself more to knowing Him and growing closer to Him?*
+	B. Discuss these questions
+		* *As you are learning about God, do you feel like He loves you and desires good for your life?*
+		* *Think about a follower of Jesus that you know. Does seeing other believers lives draw you closer or farther away from desiring to know God?* *Are they keeping God’s commands?*  
+		* *Why does God put so much emphasis on following his commands?*
+		* *Do you have a desire to please God in your own life?*
+		* *Do you think that there are any benefits for living a life like Jesus?*
+		* *Even if you haven’t fully given your life to follow Jesus, what are ways that you could dedicate yourself more to 	knowing Him and growing closer to Him?*
  
 Resources
 ---------
@@ -146,4 +163,4 @@ Resources
 Recommended Reading
 -------------------
 
-* 
+* The Cost of Discipleshp by Dietrich Bonhoffer

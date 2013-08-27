@@ -1,5 +1,5 @@
 ================================
-Loving Others through Fellowship
+Loving Others: Fellowship
 ================================
 
 Introduction

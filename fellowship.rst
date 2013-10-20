@@ -25,9 +25,9 @@ Fellowship is much more than just getting together, talking and eating although 
 	Who We Are
 	^^^^^^^^^^
 
-	Discuss 
-		If you could pick any woman in the Bible to be your mother, who would you pick? (Or woman in history if not familiar with Bible women)
-		See suggestions in History Sharing Appendix.
+	1.	If you could pick any woman in the Bible to be your mother, who would you pick? (Or woman in history if not familiar with Bible women)
+	
+	2.	See suggestions in History Sharing Appendix.
  
 	What About You?
 	^^^^^^^^^^^^^^^
@@ -62,18 +62,20 @@ In the Word
 
 A.	**True Fellowship is showing love to others just as Jesus has showed love to us**
 
-	1. Read John 13:34-35. What are some of the ways that Jesus has shown love to you? 
-
-		.. only:: leader
-			.. topic:: *Leader Note* 
-				For example: Jesus has accepted me just the way I am.  Jesus has forgiven me for the wrong things I have done. 
+	1.	Read John 13:34-35. What are some of the ways that Jesus has shown love to you? 
  		
  		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 
-	2.  For each way that Jesus has shown his love for you, give one practical example of how you could show that same love to someone else. 
+		.. only:: leader
+
+			.. topic:: *Leader Note* 
+			
+				For example: Jesus has accepted me just the way I am.  Jesus has forgiven me for the wrong things I have done. 
+
+	2.	For each way that Jesus has shown his love for you, give one practical example of how you could show that same love to someone else. 
 
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
@@ -81,53 +83,58 @@ A.	**True Fellowship is showing love to others just as Jesus has showed love to 
 		`__________________________________________________________________________`
 		
 		.. only:: leader
-			.. topic:: *Leader Note* 
+
+			.. topic:: *Leader Note*
+
 				For example: Jesus has forgiven me.  I can forgive my roommate when he/she does something to offend or hurt me.
 		
-B. **Fellowship is essential to our spiritual growth**
+B.	**Fellowship is essential to our spiritual growth**
 				
-	1. Read 1 John 4:7-21.  Why is loving others so important to our spiritual growth? 
+	1.	Read 1 John 4:7-21.  Why is loving others so important to our spiritual growth? 
 
 		* `__________________________________________________________________________`
-		*`__________________________________________________________________________`
-	 	*`__________________________________________________________________________`
-		*`__________________________________________________________________________`
+		* `__________________________________________________________________________`
+	 	* `__________________________________________________________________________`
+		* `__________________________________________________________________________`
 	
 	.. only:: leader
-			.. topic:: *Leader Note*
-				Answers may vary.  Here are some possible answers.
-				1. Verse 8 - Whoever does not love does not know God.
-				2. Verse 11 - As we grow in understanding God's love for us, we will grow in our love for one another
-				3. Verse 17 - When we love others, we become more like Jesus. 
-				4. Verse 20 - If we claim to love God but hate a brother or sister, we are liars and disobedient to what Christ commands.
-			
-	2. Read Hebrews 10:24-25. Discuss what these verses say about how fellowship can help our spiritual growth. 
 
- 		 * `__________________________________________________________________________`
-		 *`__________________________________________________________________________`
-	 	 *`__________________________________________________________________________`
+		.. topic:: *Leader Note*
+			
+			Answers may vary. Here are some possible answers.
+
+			1. Verse 8 - Whoever does not love does not know God.
+			2. Verse 11 - As we grow in understanding God's love for us, we will grow in our love for one another
+			3. Verse 17 - When we love others, we become more like Jesus. 
+			4. Verse 20 - If we claim to love God but hate a brother or sister, we are liars and disobedient to what Christ commands.
+			
+	2.	Read Hebrews 10:24-25. Discuss what these verses say about how fellowship can help our spiritual growth. 
+
+ 		* `__________________________________________________________________________`
+		* `__________________________________________________________________________`
+	 	* `__________________________________________________________________________`
 	  
-	
 	.. only:: leader
 
 		.. topic:: *Leader Note*
 
 			Some possible answers could include spurring each other on to love and good deeds (v.24), being obedient to the command to assemble together and encouraging each other (v. 25) 
 
-C. **Fellowship in the Early Church**
+C.	**Fellowship in the Early Church**
 
-	1. Read Acts 2:42-47. 
+	1. 	Read Acts 2:42-47. 
 	   
-	2. What are some examples of how the early church fellowshipped with one another?
+	2. 	What are some examples of how the early church fellowshipped with one another?
 
- 		 *`__________________________________________________________________________`
-		 *`__________________________________________________________________________`
-	 	 *`__________________________________________________________________________`
+ 		`__________________________________________________________________________`
+		`__________________________________________________________________________`
+	 	`__________________________________________________________________________`
 
 	3.  What were some of the results that they saw in their love for God and each other?
-	     * `__________________________________________________________________________`
-		 *`__________________________________________________________________________`
-	 	 *`__________________________________________________________________________`
+	    
+	    `__________________________________________________________________________`
+		`__________________________________________________________________________`
+	 	`__________________________________________________________________________`
 
 		
 
@@ -149,11 +156,12 @@ Live the Word
   
 Resources
 ---------
+
 * Longhornxa.org  - See what opportunities for fellowship are coming up this week in our community.
  
 Recommended Reading
-------------------- 
+-------------------
+
 * Everybody's Normal Til you Get to Know Them by John Ortberg
 * University of Virginia article
-* Fellowship article from Discipleship Journal. 
-*
+* Fellowship article from Discipleship Journal.

@@ -5,9 +5,9 @@ Loving God: Serving Others
 Introduction
 -------------
 
-**Service-- Our place in the body of Christ**
+**Service -- Our place in the body of Christ**
 
-*God make you unique and gave you specific gifts and abilities so that you could fulfil his purpose. One of the things God calls us to to is to serve others.  Howe we serve might differ from one person to another, but we are all called to serve. Serving could mean helping people who need help, serving in our spiritual community to help fulfil the great commission or seeing something that needs to be done in our city, state or world and doing it for God's glory.*
+God make you unique and gave you specific gifts and abilities so that you could fulfil his purpose. One of the things God calls us to to is to serve others.  Howe we serve might differ from one person to another, but we are all called to serve. Serving could mean helping people who need help, serving in our spiritual community to help fulfil the great commission or seeing something that needs to be done in our city, state or world and doing it for God's glory.
 
 .. only:: leader
 
@@ -41,32 +41,39 @@ Introduction
 Theme Scriptures
 ----------------
 
-**Ephesians 6:7** *"Serve wholeheartedly, as if you were serving the Lord, not people,"*
-**1 Peter 4:10** *"Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."*
+**Ephesians 6:7** 
+	*Serve wholeheartedly, as if you were serving the Lord, not people.*
+
+**1 Peter 4:10**
+	*Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms.*
 
 In the Word
 -----------
 
-1. Read the Scriptures below. As a group, build a list of servanthood or “greatest in the Kingdom” traits. Write them down. 
+1.	Read the Scriptures below. As a group, build a list of servanthood or “greatest in the Kingdom” traits. Write them down. 
 
-	* Philippians 2:5-11
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
+	*	Philippians 2:5-11
+	
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
-	* Matthew 18:1-5
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
+	*	Matthew 18:1-5
 
-	* Mark 10:35-45
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
-	* John 13:12-17
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
+	*	Mark 10:35-45
+	
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
+	*	John 13:12-17
+	
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
-2. In which of these traits do you feel you are strongest? In which one are you the weakest? Which one would you like to grow in?
+2.	In which of these traits do you feel you are strongest? In which one are you the weakest? Which one would you like to grow in?
+
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
@@ -75,6 +82,7 @@ In the Word
 .. topic:: *But I’m not a Christian...*
 
 	Read Luke 10:25-37
+	
 	* Who was in the story?
 	* What was each person’s response?
 	* Why did Jesus say “Go and do likewise”
@@ -83,7 +91,7 @@ In the Word
 Live the Word
 -------------
 
-	1. If possible do a “foot washing” (based on John 13:1-17) with the members in your small group. Take turns washing each other's feet as a sign of servanthood. Say encouraging things or pray for the person while you wash their feet.
+	1.	If possible do a “foot washing” (based on John 13:1-17) with the members in your small group. Take turns washing each other's feet as a sign of servanthood. Say encouraging things or pray for the person while you wash their feet.
 
 		.. only:: leader
 
@@ -91,14 +99,14 @@ Live the Word
 
 				You will need to prepare towels and a bucket.
 
-	2. We can all use our own talents and abilities to serve God. Complete a spiritual gifts survey. Think of ways that you can use your strongest gifts to serve others.
+	2.	We can all use our own talents and abilities to serve God. Complete a spiritual gifts survey. Think of ways that you can use your strongest gifts to serve others.
 
-	3. Plan a service activity time and place that the small group and go out and serve to together.
+	3.	Plan a service activity time and place that the small group and go out and serve to together.
 
 
-	4. Read *Mark 9:35* daily this week and pray for opportunities to serve others. Then go out of the way this week to serve those that come into your path/ area of influence/class/etc.
+	4.	Read *Mark 9:35* daily this week and pray for opportunities to serve others. Then go out of the way this week to serve those that come into your path/ area of influence/class/etc.
 
-	5. Ask a staff member about ways to serve the Chi Alpha Community. Pick one or two and do them with your small group or individually.
+	5.	Ask a staff member about ways to serve the Chi Alpha Community. Pick one or two and do them with your small group or individually.
 
 .. topic:: *But I’m not a Christian ...*
 
@@ -111,6 +119,7 @@ Live the Word
 
 Resources
 ---------
+
 * http://www.randomactsofkindness.org/kindness-ideas - More than 300 ideas for serving and showing kindness in your community.
 * http://www.lifeway.com/lwc/files/lwcF_MYCS_030526_Spiritual_Gifts_Survey.pdf  Spiritual gifts survey for determining your areas of strength for serving your spiritual community.
 

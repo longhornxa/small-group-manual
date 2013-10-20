@@ -51,7 +51,7 @@ xa_name=u'LonghornXA Small Groups Leader Manual'
 
 # General information about the project.
 project = xa_name
-copyright = u'2012, Chi Alpha Christian Fellowship at the University of Texas'
+copyright = u'2013, Chi Alpha Christian Fellowship at the University of Texas'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

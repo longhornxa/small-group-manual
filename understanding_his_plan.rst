@@ -52,7 +52,7 @@ Theme Scriptures
 In the Word
 -----------
 
-A. **Different Views of the Bible**
+A.	**Different Views of the Bible**
 
 	Microscopic Vs. Telescopic
 
@@ -60,90 +60,85 @@ A. **Different Views of the Bible**
 	2. Give an example of viewing the Bible from a microscopic perspective.
 	3. Viewing the Bible from a telescopic perspective, what are some of the universal themes you see?
 
-	.. only:: leader
+.. only:: leader
 	
-		.. topic:: *Leader Note*  
+	.. topic:: *Leader Note*  
 
-			For fun, you could use Google Earth to demonstrate this concept.	
+		For fun, you could use Google Earth to demonstrate this concept.	
 
 B.	**Read Acts 17: 24-31**
 
 	Identify big picture components that Paul highlighted while in Athens.
-
-	.. only:: leader
-
-		.. topic:: *Leader Note*
-
-			1. God is Creator
-				'The God who made the world... all mankind'
-				Genesis 1 speaks of man being 'made...'
-			2. Mankind is designed to seek relationship
-				'… that they (mankind) might seek God'
-				Genesis 1 speaks of being 'made in His image' (intellect, will, emotion, etc)
-			3. God calls mankind to a reconciled relationship
-				Repent = Acknowledge broken relationship and Turn away from 'sin' and to God
-				Genesis 3  God initiates reconciliation: 'Where are you?'
-				Genesis 12 God sets in motion a reconciliation plan thru Abram's seed / Israel
-			4. God appoints a Righteous Judge (Messiah = Christ is a Greek equivalent for this title)
-				God promises and predicts Messiah (Prophet, Priest, Judge, King)
-				God reconciles man's relationship through Him (Jesus) before judgement
-				God has raised Him (Jesus) from the dead as affirmation of His unique role
 
 	1. ``__________________________________________________________________________``
 	2. ``__________________________________________________________________________``
 	3. ``__________________________________________________________________________``
 	4. ``__________________________________________________________________________``
 
-C.  **After reading Acts 17:24-31 try to summarize in your own words a short version of the Bible's main message. 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+.. only:: leader
 
-D.  **Gods 'Covenant' relationship throughout the Bible**
+	.. topic:: *Leader Note*
 
-	.. only:: leader
+		1. God is Creator
+			'The God who made the world... all mankind'
+			Genesis 1 speaks of man being 'made...'
+		2. Mankind is designed to seek relationship
+			'… that they (mankind) might seek God'
+			Genesis 1 speaks of being 'made in His image' (intellect, will, emotion, etc)
+		3. God calls mankind to a reconciled relationship
+			Repent = Acknowledge broken relationship and Turn away from 'sin' and to God
+			Genesis 3  God initiates reconciliation: 'Where are you?'
+			Genesis 12 God sets in motion a reconciliation plan thru Abram's seed / Israel
+		4. God appoints a Righteous Judge (Messiah = Christ is a Greek equivalent for this title)
+			God promises and predicts Messiah (Prophet, Priest, Judge, King)
+			God reconciles man's relationship through Him (Jesus) before judgement
+			God has raised Him (Jesus) from the dead as affirmation of His unique role
 
-		.. topic:: *Leader Note* 
 
-			The two key components of the meaning are 'Contract (lifelong) + Relationship'
+C.	**After reading Acts 17:24-31 try to summarize in your own words a short version of the Bible's main message.**
+ 
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
+D.	**Gods 'Covenant' relationship throughout the Bible**
 
 	1. What does the word 'Covenant' mean?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
 
 	2. What are the key components of a Covenant?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
 
-D.  **Look at a list of books of the Bible**
+.. only:: leader
 
-	.. only:: leader
+	.. topic:: *Leader Note* 
 
-	     .. topic:: *Leader Note*
+		The two key components of the meaning are 'Contract (lifelong) + Relationship'
 
-	     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible. For further information you may refer them to the Bible timeline, offer to meet with them one by one to go over the Big picture or refer them to a Discover the Bible/Discover Jesus class if one is currently meeting.
+E.  **Look at a list of books of the Bible**
+
+.. only:: leader
+
+     .. topic:: *Leader Note*
+
+     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible. For further information you may refer them to the Bible timeline, offer to meet with them one by one to go over the Big picture or refer them to a Discover the Bible/Discover Jesus class if one is currently meeting.
 
 E. **Read Jeremiah 31:31-33**
 
 	#. Based on this verse what kind of relationship does God want to have with his people?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
 	#. Discuss Jeremiah's reference to covenant(s) and the comparison to marriage. What might a prospective fiance's proposal look like with only one of the two components of covenant?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-	
-	
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
 	
 F. **Three components of understanding God's plan**
-
-	.. only:: leader
-
-		.. topic:: *Leader Note*
-
-			Go over the points below and then read through the options in the Live the Word section below with your group. Have each person in your small group choose one of the ideas (or create their own) and share with the group which they will try to do this week.
 
 	*Metanarrative= Big picture, the overarching storyline*
 
@@ -157,8 +152,15 @@ F. **Three components of understanding God's plan**
 		
 		Pursue Scripture where the big picture is visibly summarized in condensed passages... like Luke 22 and 24; Acts 10 and 17 
  
-	3. An Intentional Plan ... for understanding God's plan (Choose one of the ideas from the Live the Word section to try this week.)
+	3.	An Intentional Plan ... for understanding God's plan 
+	   
+		Choose one of the ideas from the Live the Word section to try this week.
 
+.. only:: leader
+
+	.. topic:: *Leader Note*
+
+		Go over the points above and then read through the options in the Live the Word section below with your group. Have each person in your small group choose one of the ideas (or create their own) and share with the group which they will try to do this week.
 	
 .. topic:: *But I'm not a Christian...*
 

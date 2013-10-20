@@ -9,11 +9,14 @@ The way we express our love towards God is called worship.  There are many ways 
 Theme Scriptures
 ----------------
  
-**Exodus 20:3-5**  *You must not have any other god but me. You must not make for yourself an idol of any kind or an image of anything in the heavens or on the earth or in the sea. You must not bow down to them or worship them, for I, the Lord your God, am a jealous God who will not tolerate your affection for any other gods.* 
+**Exodus 20:3-5**  
+    *You must not have any other god but me. You must not make for yourself an idol of any kind or an image of anything in the heavens or on the earth or in the sea. You must not bow down to them or worship them, for I, the Lord your God, am a jealous God who will not tolerate your affection for any other gods.* 
  
-**Psalms 95:6**  *Come, let us worship  and bow down. Let us kneel before the LORD our maker.*
+**Psalms 95:6**  
+    *Come, let us worship  and bow down. Let us kneel before the LORD our maker.*
  
-**Romans 12:1**  *And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice, the kind he will find acceptable. This is truly the way to worship him.*
+**Romans 12:1**  
+    *And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice, the kind he will find acceptable. This is truly the way to worship him.*
  
 
 .. only:: leader
@@ -48,73 +51,73 @@ Theme Scriptures
 In the Word
 -----------
 
-A. **What is worship?**
+A.  **What is worship?**
 
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
  
-B. **What does worship mean in Hebrew and Greek?**  (the original languages of the Bible)?
+B.  **What does worship mean in Hebrew and Greek?**  (the original languages of the Bible)?
 
     1. Hebrew
 
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
 
     2. Greek
 
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
+
+.. only:: leader
+
+    .. topic:: *Leader Note*
+        
+        In Hebrew the language of the Old Testament  **shachah** (Strong's 7812) is translated 99 times as worship; it is also translated as bow down, reverence and fall down
+
+        In New Testament Greek the word **proskuneo** (Strong's 4352) is used 60 times as worship.
+
+        **proskuneo**
+
+           1. to kiss the hand to (towards) one, in token of reverence
+         
+           2. among the Orientals, esp. the Persians, to fall upon the knees and touch the ground with the forehead as an expression of profound reverence
+ 
+C.  **Read and Discuss Luke 7:44-48**
+
+    1. What actions did the woman take in this passage?
+     
+    `__________________________________________________________________________`
+    `__________________________________________________________________________` 
+
+    2. What was her attitude? 
+     
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
+
+    3. How are the other people in this passage participating in worship?
+     
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
+ 
+D.  **Why do we worship?** Discuss what these two passages say about why we worship God.
+
+	1. Revelations 4:9-11
+
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
+
+    2. Hebrews 12:28
+
+    `__________________________________________________________________________`
+    `__________________________________________________________________________`
+
+C. **How do we worship?** 
 
     .. only:: leader
 
         .. topic:: *Leader Note*
-            
-            In Hebrew the language of the Old Testament  **shachah** (Strong's 7812) is translated 99 times as worship; it is also translated as bow down, reverence and fall down
- 
-            In New Testament Greek the word **proskuneo** (Strong's 4352) is used 60 times as worship.
 
-            **proskuneo**
-
-               1. to kiss the hand to (towards) one, in token of reverence
-             
-               2. among the Orientals, esp. the Persians, to fall upon the knees and touch the ground with the forehead as an expression of profound reverence
- 
-C. **Read and Discuss Luke 7:44-48**
-
-    1. What actions did the woman take in this passage?
-     
-        `__________________________________________________________________________`
-        `__________________________________________________________________________` 
-
-    2. What was her attitude? 
-     
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
-
-    3. How are the other people in this passage participating in worship?
-     
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
- 
-D. **Why do we worship?** Discuss what these two passages say about why we worship God.
-
-	1. Revelations 4:9-11
-
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
-	
-    2. Hebrews 12:28
-
-        `__________________________________________________________________________`
-        `__________________________________________________________________________`
-
-C. **How do we worship?** 
-
-		.. only:: leader
-			
-            .. topic:: *Leader Note*
-
-                For each point, share your own experience and ask the group to share personal examples of when they did this or saw this done by someone else that they know.  Also discuss how each act was an act of worship.
+            For each point, share your own experience and ask the group to share personal examples of when they did this or saw this done by someone else that they know.  Also discuss how each act was an act of worship.
 
     There are many expressions of worship. When we do these things with an attitude of reverence and a motivation of love towards God we are engaging in worship.
 
@@ -135,7 +138,7 @@ C. **How do we worship?**
         `__________________________________________________________________________`
         `__________________________________________________________________________`
 
-D. **Discuss** 
+D.  **Discuss** 
 
     1. What happens when there is no worship of the true God in a place, nation, etc? (missions exists because worship doesn't)
     
@@ -143,7 +146,7 @@ D. **Discuss**
     
     3. What is one way you can invite others to join you in worship?  Or how can you bring worship into your area of influence?
 
-E. **Take one or two of the ways to worship God and practice them together.**
+E.  **Take one or two of the ways to worship God and practice them together.**
 
 .. only:: leader
 
@@ -151,15 +154,15 @@ E. **Take one or two of the ways to worship God and practice them together.**
 
         For non believers in your group
 
-	   * Discuss what usually happens when Christians get together to worship God.  
-	   
-       * Tell them the reasons Christians gather together to worship God
-	   
-       * If they don't attend life group invite them to yours. If they already do, invite them to attend your church service.
+        * Discuss what usually happens when Christians get together to worship God.  
+
+        * Tell them the reasons Christians gather together to worship God
+
+        * If they don't attend life group invite them to yours. If they already do, invite them to attend your church service.
  
 Live the Word
 -------------
-1. During a worship service (aka life group, church, community gathering, etc)  try one new expression of worship. (For example if you have never raised your hands, raise them in praise, or you have never knelt down bow before the Lord, then kneel in worship).  
+1.  During a worship service (aka life group, church, community gathering, etc)  try one new expression of worship. (For example if you have never raised your hands, raise them in praise, or you have never knelt down bow before the Lord, then kneel in worship).  
 
 2.  This week follow through with one act of obedience as worship to God. (for example if God is asking you spend a longer prayer time do it, if God has asked you to call some one, do)
 
@@ -177,9 +180,9 @@ Live the Word
 Resources
 ---------
 
-    * Preparing for worship - http://blogfinch.files.wordpress.com/2011/11/preparing-for-worship.pdf 
+* Preparing for worship - http://blogfinch.files.wordpress.com/2011/11/preparing-for-worship.pdf 
 
-    * List of Creative ways to Worship God by Rael Gore   http://longhornxa.com/wp-content/uploads/2012/09/Creative-Ways-to-Worship-God.pdf
+* List of Creative ways to Worship God by Rael Gore   http://longhornxa.com/wp-content/uploads/2012/09/Creative-Ways-to-Worship-God.pdf
  
 Recommended Reading
 -------------------

@@ -39,108 +39,110 @@ Theme Scriptures
 In the Word
 ------------
 
-A. **Read Matthew 28:18-20**
+A.  **Read Matthew 28:18-20**
 
- 	What is Jesus asking his followers to do in this passage?
+    What is Jesus asking his followers to do in this passage?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-    .. only:: leader
-      	
-      	.. topic:: *Leader Note*
-
-        	*1. The scripture above quotes Jesus' teaching to His apostles shortly Before He ascended to heaven*
-
-         	*2. This scripture is commonly called "The Great Commission."*
-
-         	*3. The imperative in this scripture is "Therefore go and make disciples of all nations”, The rest of the passage is followed by description in what things should accompany this initial command. At the very end Jesus intends to comfort his disciples with knowing that he will not leave them.*
-
-B. **Definition of a Disciple**
-
-	In your opinion what does it mean to be Jesus' disciple? Do you consider yourself a disciple of Jesus?	
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-    .. only:: leader
-
-    	.. topic:: *Leader Note*
-
-        	*1. The word "disciple" literally means 'learner'.*
-
-          	*2. According to Vine's Expository Dictionary Of New Testament Words, it denotes "one who follows another's teaching"*
-
-          	*3. But a disciple was not only a learner, he was also an *Adherant* For this reason disciples were spoken of as *imitators* of their teachers.*
-
-          	*4. Is believing in Jesus enough to be a disciple? What about attending church services regularly?*
-
-C. **The Goal of being a Disciple**
-	 
-	Read Luke 6:40 and Romans 8:29. According to these Scriptures what is the goal of being a disciple?
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-	.. only :: leader 
-
-		.. topic:: *Leader Note*
-
-			To be Christ's disciple, then, is to strive to be like Him! Do you have a strong desire to follow Jesus and become like Him? Unless you do, it cannot be said that you are truly His disciple!
- 
- 
-D. **The Marks of a Disciple**
-
-	.. only :: leader 
-
-		.. topic:: *Leader Note*
-
-			Have each small group member look up one of these scriptures and share with the group what it says about the marks of a disciple. 
-
-			*Marks of a Disciple of Christ*
-
-				*1. Following the teachings of Christ*
-
-				*2. Demonstrating love towards other Christians*
-
-				*3. Bearing fruit to the glory of God*
-
-	1. John 8:31
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-   	2. Matthew 7:21-27
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-  	3. John 13:34-35
-
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-	4. John 15:8
-	
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
-
-E. **Reflection**
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
 
 .. only:: leader
 
     .. topic:: *Leader Note*
 
-      Have the group members think about and discuss the reflection questions and then read through the options in the Live the Word section below with your group. Have each person in your small group choose one of the ideas (or create their own) which they will try to do this week and share it with the group.
+    	*1. The scripture above quotes Jesus' teaching to His apostles shortly Before He ascended to heaven*
 
-    1. Consider the marks of a disciple of Jesus (Obeying the teachings of Christ, showing love for other believers and bearing fruit to the glory of God) and give an example of how a disciple might demonstrate these in his or her life.
-      
-      .. only:: leader
+     	*2. This scripture is commonly called "The Great Commission."*
+
+     	*3. The imperative in this scripture is "Therefore go and make disciples of all nations”, The rest of the passage is followed by description in what things should accompany this initial command. At the very end Jesus intends to comfort his disciples with knowing that he will not leave them.*
+
+B.  **Definition of a Disciple**
+
+    In your opinion what does it mean to be Jesus' disciple? Do you consider yourself a disciple of Jesus?	
+
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
+.. only:: leader
 
     .. topic:: *Leader Note*
 
-      For example someone might obey the teaching of Christ by seeking to 'Not worry" as Jesus talked about in Matthew 6:25
+    	*1. The word "disciple" literally means 'learner'.*
+
+      	*2. According to Vine's Expository Dictionary Of New Testament Words, it denotes "one who follows another's teaching"*
+
+      	*3. But a disciple was not only a learner, he was also an *Adherant* For this reason disciples were spoken of as *imitators* of their teachers.*
+
+      	*4. Is believing in Jesus enough to be a disciple? What about attending church services regularly?*
+
+C.  **The Goal of being a Disciple**
+	 
+    Read Luke 6:40 and Romans 8:29. According to these Scriptures what is the goal of being a disciple?
+
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
+.. only :: leader 
+
+    .. topic:: *Leader Note*
+
+		To be Christ's disciple, then, is to strive to be like Him! Do you have a strong desire to follow Jesus and become like Him? Unless you do, it cannot be said that you are truly His disciple!
+  
+D.  **The Marks of a Disciple**
+
+    1. John 8:31
+
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+   	
+    2. Matthew 7:21-27
+
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+  	
+    3. John 13:34-35
+
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
+    4. John 15:8
+
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
+.. only :: leader 
+
+    .. topic:: *Leader Note*
+
+        Have each small group member look up one of these scriptures and share with the group what it says about the marks of a disciple. 
+
+        *Marks of a Disciple of Christ*
+
+            *1. Following the teachings of Christ*
+
+            *2. Demonstrating love towards other Christians*
+
+            *3. Bearing fruit to the glory of God*
+
+
+E.  **Reflection**
+
+    .. only:: leader
+
+        .. topic:: *Leader Note*
+
+            Have the group members think about and discuss the reflection questions and then read through the options in the Live the Word section below with your group. Have each person in your small group choose one of the ideas (or create their own) which they will try to do this week and share it with the group.
+
+    1. Consider the marks of a disciple of Jesus (Obeying the teachings of Christ, showing love for other believers and bearing fruit to the glory of God) and give an example of how a disciple might demonstrate these in his or her life.
       
- 
+    .. only:: leader
+
+        .. topic:: *Leader Note*
+
+            For example someone might obey the teaching of Christ by seeking to 'Not worry" as Jesus talked about in Matthew 6:25
+      
     2. Do you feel that you have been trying to actively follow Christ's example as His disciple? Is there any area of particular difficulty?
-    
+
     3. What is one step you will take this week to follow Jesus as His disciple?
 
 .. topic:: *But I'm not a Christian...*

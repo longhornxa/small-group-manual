@@ -10,11 +10,14 @@ As you spend time alone with God, prayer is key to developing a dialogue between
 Theme Scriptures
 ---------------- 
 
-**I Thessalonians 5:17**  *Pray without ceasing.*
+**I Thessalonians 5:17**  
+	*Pray without ceasing.*
 
-**Matthew 7:7**  *Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.*
+**Matthew 7:7**  
+	*Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.*
 
-**James 5:13-16**  *Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven. Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.*
+**James 5:13-16**  
+	*Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven. Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.*
 
 
 .. only:: leader
@@ -64,16 +67,18 @@ A. **Discuss the Purpose and Power of Prayer**
 
 	1. According to this passage how should we pray?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
 	2. According to this passage for whom should we pray?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
+
 	3. According to this passage why should we pray?
 
-		`__________________________________________________________________________`
-		`__________________________________________________________________________`
+	`__________________________________________________________________________`
+	`__________________________________________________________________________`
  
 B. **Read the following Scriptures.** Who was praying and what did they pray about?
 

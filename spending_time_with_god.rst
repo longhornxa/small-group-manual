@@ -61,7 +61,7 @@ In the Word
 
 A.	**Discuss the Purpose of Daily Devotional Time with God**
 
-	1. Read Philippians 3:7-14 and discuss
+	1.	Read Philippians 3:7-14 and discuss
 
 		.. only:: leader
 			.. topic:: *Leader Note* 
@@ -70,51 +70,51 @@ A.	**Discuss the Purpose of Daily Devotional Time with God**
  		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 
-	2. Read John 15:4-15
+	2.	Read John 15:4-15
 
-		What does it mean to abide in Christ?
+		* What does it mean to abide in Christ?
 
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 		
-		What is the result if we don’t abide in Christ?
+		* What is the result if we don’t abide in Christ?
 
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
 
-		According to these verses how do we develop a friendship with Christ?
+		* According to these verses how do we develop a friendship with Christ?
 
 		`__________________________________________________________________________`
 		`__________________________________________________________________________`
  
-B. **How do these people from the Bible model spending time with God**
+B.	**How do these people from the Bible model spending time with God**
 
 	.. only:: leader
 
 		.. topic:: *Leader Note*
 			Ask each member look up one of these examples and share how the person modeled spending time with God
 
-	* **Jesus** -- Mark 1:35 
+	1.	**Jesus** -- Mark 1:35 
 
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 	
-	* **Moses** -- Exodus 33:7-11 
+	2.	**Moses** -- Exodus 33:7-11 
 
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
+		`__________________________________________________________________________`
+		`__________________________________________________________________________`
 
-	* **David** -- Psalm 5:3 
+	3.	**David** -- Psalm 5:3 
 
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
+		`__________________________________________________________________________`
+	  	`__________________________________________________________________________`
 
-	* **Daniel** -- Daniel 6:10 
+	4. 	**Daniel** -- Daniel 6:10 
 
-	  `__________________________________________________________________________`
-	  `__________________________________________________________________________`
+	  	`__________________________________________________________________________`
+	  	`__________________________________________________________________________`
  
-C. **Discuss Tips and Ideas for Spending Consistent Time with God**
+C.	**Discuss Tips and Ideas for Spending Consistent Time with God**
 
 	.. only:: leader
 
@@ -122,7 +122,7 @@ C. **Discuss Tips and Ideas for Spending Consistent Time with God**
 
 			For each point, share your own experience and ask the group to share good times, places and plans they have used for spending time with God.  Make the discussion as interactive as possible.
  
-	1. A Consistent Time
+	1.	A Consistent Time
 
 		.. only:: leader
 
@@ -136,7 +136,7 @@ C. **Discuss Tips and Ideas for Spending Consistent Time with God**
 			* `____________________________________`
 			* `____________________________________`
 
-	2. A Consistent Place
+	2.	A Consistent Place
 
 		.. only:: leader
 
@@ -150,7 +150,7 @@ C. **Discuss Tips and Ideas for Spending Consistent Time with God**
 			* `____________________________________`
 			* `____________________________________`
 
-	3. A Consistent Plan
+	3.	A Consistent Plan
 
 		* Spend time talking to God
 
@@ -180,32 +180,33 @@ C. **Discuss Tips and Ideas for Spending Consistent Time with God**
 
 			* Spend time saying the names of God and praising Him for who He is in your life. 
 
-D. **Spirtual Disciplines Survey**
+D.	**Spirtual Disciplines Survey**
 
 	Look at the Spiritual Disciplines survey and mark which disciplines you participate in regularly, occasionally or never.  After marking, share one area in which you would like to grow.
 
 .. topic:: *But I’m not a Christian...*
  
-        *1. Read John 15:4-15*
+	*1. Read John 15:4-15*
 
-        *2. According to these verses how do we develop a friendship with Jesus?*
+	*2. According to these verses how do we develop a friendship with Jesus?*
 
-        *3. Discuss how prayer and the Bible relate to being Jesus’ friend.*
+	*3. Discuss how prayer and the Bible relate to being Jesus’ friend.*
 
-        *4. Discuss tips and ideas for spending time with God. See section above.*
+	*4. Discuss tips and ideas for spending time with God. See section above.*
 
-        .. only:: leader
+	.. only:: leader
 
-        	.. topic:: *Leader Note*
+		.. topic:: *Leader Note*
 
-			   	* Ask them about their schedule and times when they are by themselves.  
-				* Discuss quiet places that are good for meditation or study.  
-				* Give the basics for starting to know God through simple prayer and Bible reading
+		   	* Ask them about their schedule and times when they are by themselves.  
+			* Discuss quiet places that are good for meditation or study.  
+			* Give the basics for starting to know God through simple prayer and Bible reading
 
 Live the Word
 -------------
  
 1. Try to spend at least 30 minutes alone with God each day this week. Use the scheduling chart or a calendar on your phone or computer to schedule when you will have time with God this week
+
 2. Try something new in your time with God that you found on the survey that you do ‘rarely’ or ‘never’. 
 
 .. topic:: *But I'm not a Christian* 
@@ -221,17 +222,26 @@ Resources
 * Time Scheduler
 	- Excel - http://longhornxa.com/wp-content/uploads/2012/09/Weekly-Schedule-Template.xls 
 	- PDF - http://longhornxa.com/wp-content/uploads/2012/09/Weekly-Schedule-Template.pdf 
+
 * List of Spiritual Disciplines http://longhornxa.com/wp-content/uploads/2012/09/List-of-Spiritual-Disciplines.pdf
+
 * Spiritual Disciplines Surveys
 	- http://longhornxa.com/wp-content/uploads/2012/09/Spiritual-Disciplines-Survey.pdf
 	- http://longhornxa.com/wp-content/uploads/2012/09/Understanding-and-Experiencing-Spiritual-Disciplines-Survey.pdf
+
 * An Invitation to the Spiritual Life 
+
 * One Thing Prayer Guide [UNT XA]
+
 * Bible Reading Plans [bible gateway/youversion]
  
 Recommended Reading
 ------------------- 
+
 * Out of Solitude by Henri Nouwen
+
 * Beyond the Quiet Time by Alister McGrath
+
 * Streams in the Desert by Cowman
+
 * The Pursuit of God by A.W. Tozer

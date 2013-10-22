@@ -45,9 +45,11 @@ master_doc = 'index'
 #xa_filename=u'utxa_small_groups_leader_manual'
 #xa_name=u'XA Small Groups Leader Manual'
 
-tags.add('leader')
-xa_filename=u'longhornxa_small_groups_leader_manual'
-xa_name=u'LonghornXA Small Groups Leader Manual'
+#tags.add('leader')
+xa_version = 'student'
+tags.add(xa_version)
+xa_filename=u'longhornxa_small_groups_%s_manual' % xa_version
+xa_name=u'LonghornXA Small Groups %s Manual' % xa_version.title()
 
 # General information about the project.
 project = xa_name

@@ -26,7 +26,7 @@ The Bible was written over a period of 1500 years by 40 different authors in 66 
 	What About You?
 	^^^^^^^^^^^^^^^
 
-	1. What do you know about the content and structure of the Bible?
+	1. What do you know about the content the Bible?
 	2. What parts of the Bible have you read?
 	3. How would you summarize the story of the Bible?
 
@@ -36,9 +36,7 @@ The Bible was written over a period of 1500 years by 40 different authors in 66 
 
 			*2. What have you heard about it?*
 
-			.. only:: leader
-
-				*If you have Christians who have never read the Bible ask them these questions too*
+		*If you have Christians who have never read the Bible ask them these questions too*
 
 Theme Scriptures
 ----------------
@@ -46,17 +44,15 @@ Theme Scriptures
 **Acts 17:24-31**
 	*The God who made the world and all things in it, since He is Lord of heaven and earth, does not dwell in temples made with hands; nor is He served by human hands, as though He needed anything, since He Himself gives to all people life and breath and all things; and He made from one man every nation of mankind to live on all the face of the earth, having determined their appointed times and the boundaries of their habitation, that they would seek God, if perhaps they might grope for Him and find Him, though He is not far from each one of us; for in Him we live and move and exist, as even some of your own poets have said, 'For we also are His children'. Being then the children of God, we ought not to think that the Divine Nature is like gold or silver or stone, an image formed by the art and thought of man. Therefore having overlooked the times of ignorance, God is now declaring to men that all people everywhere should repent, because He has fixed a day in which He will judge the world in righteousness through a Man whom He has appointed, having furnished proof to all men by raising Him from the dead.*
 
-**Jeremiah 31:31-33**
-	*"Behold, days are coming," declares the Lord, "when I will make a new covenant with the house of Israel and with the house of Judah, not like the covenant which I made with their fathers in the day I took them by the hand to bring them out of the land of Egypt, My covenant which they broke, although I was a husband to them," declares the Lord. "But this is the covenant which I will make with the house of Israel after those days," declares the Lord, "I will put My law within them and on their heart I will write it; and I will be their God, and they shall be My people."*
  
 In the Word
 -----------
 
 A.	**Different Views of the Bible**
 
-	Microscopic Vs. Telescopic
+	Panoramic Vs. Zoomed
 
-	1. Compare and contrast the use of a microscope vs telescope. Which is more valuable?
+	1. When you are using a map, which do you find is more valuable?
 	2. Give an example of viewing the Bible from a microscopic perspective.
 	3. Viewing the Bible from a telescopic perspective, what are some of the universal themes you see?
 
@@ -66,14 +62,25 @@ A.	**Different Views of the Bible**
 
 		For fun, you could use Google Earth to demonstrate this concept.	
 
-B.	**Read Acts 17: 24-31**
+B.	**Read the theme scripture, Acts 17: 24-31**
 
 	Identify big picture components that Paul highlighted while in Athens.
 
-	1. ``__________________________________________________________________________``
-	2. ``__________________________________________________________________________``
-	3. ``__________________________________________________________________________``
-	4. ``__________________________________________________________________________``
+	1. What does he say about God?
+
+		``__________________________________________________________________________``
+
+	2. What does he say about Mankind?
+	
+		``__________________________________________________________________________``
+	
+	3. What does he say about Mankinds relationship with God?
+
+		``__________________________________________________________________________``
+	
+	4. What does he say about Judgment, What is Judgment?
+	
+		``__________________________________________________________________________``
 
 .. only:: leader
 
@@ -95,72 +102,13 @@ B.	**Read Acts 17: 24-31**
 			God has raised Him (Jesus) from the dead as affirmation of His unique role
 
 
-C.	**After reading Acts 17:24-31 try to summarize in your own words a short version of the Bible's main message.**
+C.	**Based on Acts 17:24-31 what do you think is a short version of the Bible's main message.**
  
 	`__________________________________________________________________________`
 	`__________________________________________________________________________`
 
-D.	**Gods 'Covenant' relationship throughout the Bible**
 
-	1. What does the word 'Covenant' mean?
 
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
-
-	2. What are the key components of a Covenant?
-
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
-
-.. only:: leader
-
-	.. topic:: *Leader Note* 
-
-		The two key components of the meaning are 'Contract (lifelong) + Relationship'
-
-E.  **Look at a list of books of the Bible**
-
-.. only:: leader
-
-     .. topic:: *Leader Note*
-
-     	Show that Bible structured in 2 main parts called Old and New (Testament = Covenant). Find out how familiar your group is with structure and books of the Bible. For further information you may refer them to the Bible timeline, offer to meet with them one by one to go over the Big picture or refer them to a Discover the Bible/Discover Jesus class if one is currently meeting.
-
-E. **Read Jeremiah 31:31-33**
-
-	#. Based on this verse what kind of relationship does God want to have with his people?
-
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
-
-	#. Discuss Jeremiah's reference to covenant(s) and the comparison to marriage. What might a prospective fiance's proposal look like with only one of the two components of covenant?
-
-	`__________________________________________________________________________`
-	`__________________________________________________________________________`
-	
-F. **Three components of understanding God's plan**
-
-	*Metanarrative= Big picture, the overarching storyline*
-
-	1.  An Intentional Perspective... of God's plan
-
-		Challenge the perspective that the Old and New Testament have no continuity.
-		
-		Ask God to give you His perspective on His plan revealed in the Bible. Since He desires for you to see truth with clarity... ask Him!
- 
-	2.  An Intentional Pursuit ... of God's plan
-		
-		Pursue Scripture where the big picture is visibly summarized in condensed passages... like Luke 22 and 24; Acts 10 and 17 
- 
-	3.	An Intentional Plan ... for understanding God's plan 
-	   
-		Choose one of the ideas from the Live the Word section to try this week.
-
-.. only:: leader
-
-	.. topic:: *Leader Note*
-
-		Go over the points above and then read through the options in the Live the Word section below with your group. Have each person in your small group choose one of the ideas (or create their own) and share with the group which they will try to do this week.
 	
 .. topic:: *But I'm not a Christian...*
 
